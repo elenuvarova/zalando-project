@@ -1,12 +1,12 @@
 databases:
-  - name: ai-workshop-db
+  - name: zalando-case-study-db
     plan: free
     databaseName: app
     user: app
 
 services:
   - type: web
-    name: ai-workshop-web
+    name: zalando-case-study-web
     runtime: docker
     plan: free
     dockerfilePath: ./Dockerfile
@@ -18,5 +18,5 @@ services:
         value: 3001
       - key: DATABASE_URL
         fromDatabase:
-          name: ai-workshop-db
+          name: zalando-case-study-db
           property: connectionString
