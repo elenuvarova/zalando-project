@@ -1,211 +1,22 @@
 {
   "nodes": [
     {
-      "id": "0867969003",
-      "label": "Unknown \u00b7 Blue",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 236.31487747614503,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Blue"
-    },
-    {
-      "id": "0921266007",
-      "label": "T-shirt \u00b7 Dark Purple",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 232.9777398733385,
-      "garment_group": "Jersey Basic",
-      "colour_group": "Dark Purple"
-    },
-    {
-      "id": "0919273002",
-      "label": "Blouse \u00b7 Black",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 95.04755292270666,
-      "garment_group": "Blouses",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0886270003",
-      "label": "Trousers \u00b7 Black",
-      "community": 17,
-      "colour": "#d62728",
-      "size": 783.8653679653679,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0804992017",
-      "label": "Unknown \u00b7 Dark Pink",
+      "id": "0918292011",
+      "label": "Leggings/Tights \u00b7 White",
       "community": 11,
       "colour": "#aec7e8",
-      "size": 83.9237025313344,
+      "size": 155.68671026431764,
       "garment_group": "Jersey Fancy",
-      "colour_group": "Dark Pink"
-    },
-    {
-      "id": "0706016001",
-      "label": "Trousers \u00b7 Black",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 162.71090953307973,
-      "garment_group": "Trousers",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0882882015",
-      "label": "Trousers \u00b7 Blue",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 923.7245147446823,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Blue"
-    },
-    {
-      "id": "0909081001",
-      "label": "Sweater \u00b7 White",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 488.7839304196957,
-      "garment_group": "Knitwear",
       "colour_group": "White"
     },
     {
-      "id": "0640021012",
-      "label": "Trousers \u00b7 Black",
-      "community": 17,
-      "colour": "#d62728",
-      "size": 316.87067031089475,
-      "garment_group": "Trousers",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0869331003",
-      "label": "Top \u00b7 Dark Beige",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 749.9090936195587,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Dark Beige"
-    },
-    {
-      "id": "0926221002",
-      "label": "Skirt \u00b7 Black",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 527.9346804511279,
-      "garment_group": "Skirts",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0921347003",
-      "label": "Sweater \u00b7 Green",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 191.12576279428623,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Green"
-    },
-    {
-      "id": "0875856004",
-      "label": "Sweater \u00b7 Greenish Khaki",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 773.9277461455983,
-      "garment_group": "Knitwear",
-      "colour_group": "Greenish Khaki"
-    },
-    {
-      "id": "0910447001",
-      "label": "Trousers \u00b7 Black",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 0.0,
-      "garment_group": "Trousers",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0905957007",
-      "label": "Leggings/Tights \u00b7 Greyish Beige",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 281.38242544946064,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Greyish Beige"
-    },
-    {
-      "id": "0928206001",
-      "label": "Shirt \u00b7 White",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 246.65573383254227,
-      "garment_group": "Blouses",
-      "colour_group": "White"
-    },
-    {
-      "id": "0706016038",
+      "id": "0869459001",
       "label": "Trousers \u00b7 Blue",
       "community": 45,
       "colour": "#98df8a",
-      "size": 114.73906597224247,
-      "garment_group": "Trousers",
-      "colour_group": "Blue"
-    },
-    {
-      "id": "0714790028",
-      "label": "Trousers \u00b7 Black",
-      "community": 17,
-      "colour": "#d62728",
-      "size": 104.58165325909032,
+      "size": 513.4382400143587,
       "garment_group": "Trousers Denim",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0783346032",
-      "label": "Trousers \u00b7 Dark Orange",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 52.96673642602327,
-      "garment_group": "Trousers",
-      "colour_group": "Dark Orange"
-    },
-    {
-      "id": "0924243001",
-      "label": "Sweater \u00b7 Beige",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 122.1797183691732,
-      "garment_group": "Knitwear",
-      "colour_group": "Beige"
-    },
-    {
-      "id": "0882613003",
-      "label": "Sweater \u00b7 Greenish Khaki",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 1309.9848198850343,
-      "garment_group": "Unknown",
-      "colour_group": "Greenish Khaki"
-    },
-    {
-      "id": "0918292003",
-      "label": "Leggings/Tights \u00b7 Dark Pink",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 960.9182500236997,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Dark Pink"
-    },
-    {
-      "id": "0794575017",
-      "label": "Hoodie \u00b7 Dark Grey",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 228.00732710020048,
-      "garment_group": "Jersey Basic",
-      "colour_group": "Dark Grey"
+      "colour_group": "Blue"
     },
     {
       "id": "0868283001",
@@ -217,13 +28,31 @@
       "colour_group": "Black"
     },
     {
-      "id": "0698387022",
-      "label": "Trousers \u00b7 Black",
+      "id": "0923037001",
+      "label": "Sweater \u00b7 Black",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 164.1044827687704,
+      "garment_group": "Under-, Nightwear",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0905492001",
+      "label": "Cardigan \u00b7 Black",
       "community": 2,
       "colour": "#ff9896",
-      "size": 433.8825891116346,
-      "garment_group": "Trousers Denim",
+      "size": 132.65340731327126,
+      "garment_group": "Knitwear",
       "colour_group": "Black"
+    },
+    {
+      "id": "0923758001",
+      "label": "Unknown \u00b7 White",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 133.8137173954089,
+      "garment_group": "Blouses",
+      "colour_group": "White"
     },
     {
       "id": "0762846006",
@@ -235,56 +64,56 @@
       "colour_group": "Black"
     },
     {
-      "id": "0554450043",
-      "label": "Trousers \u00b7 Light Grey",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 499.04556894437945,
-      "garment_group": "Trousers",
-      "colour_group": "Light Grey"
-    },
-    {
-      "id": "0895610003",
-      "label": "Trousers \u00b7 Dark Green",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 430.10643805698925,
-      "garment_group": "Trousers",
-      "colour_group": "Dark Green"
-    },
-    {
-      "id": "0797710006",
-      "label": "Top \u00b7 Dark Beige",
+      "id": "0909081003",
+      "label": "Sweater \u00b7 Beige",
       "community": 29,
       "colour": "#2ca02c",
-      "size": 205.71670137266338,
+      "size": 530.5651779290664,
       "garment_group": "Knitwear",
-      "colour_group": "Dark Beige"
+      "colour_group": "Beige"
     },
     {
-      "id": "0898573003",
-      "label": "Blouse \u00b7 Black",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 181.5270358102248,
-      "garment_group": "Blouses",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0919365008",
-      "label": "Trousers \u00b7 Blue",
-      "community": 17,
-      "colour": "#d62728",
-      "size": 79.28428019706443,
-      "garment_group": "Trousers",
-      "colour_group": "Blue"
-    },
-    {
-      "id": "0882882002",
+      "id": "0554450036",
       "label": "Trousers \u00b7 Dark Blue",
       "community": 45,
       "colour": "#98df8a",
-      "size": 671.2281064622483,
+      "size": 348.50845833696553,
+      "garment_group": "Trousers",
+      "colour_group": "Dark Blue"
+    },
+    {
+      "id": "0924453003",
+      "label": "Top \u00b7 Black",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 182.5119078719824,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0781613006",
+      "label": "Blazer \u00b7 Black",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 37.14615104196704,
+      "garment_group": "Dressed",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0875856003",
+      "label": "Sweater \u00b7 Dark Orange",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 755.2972834325433,
+      "garment_group": "Knitwear",
+      "colour_group": "Dark Orange"
+    },
+    {
+      "id": "0857030003",
+      "label": "Trousers \u00b7 Dark Blue",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 556.4325948626366,
       "garment_group": "Trousers Denim",
       "colour_group": "Dark Blue"
     },
@@ -298,211 +127,139 @@
       "colour_group": "Off White"
     },
     {
-      "id": "0869459001",
-      "label": "Trousers \u00b7 Blue",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 513.4382400143587,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Blue"
-    },
-    {
-      "id": "0900279001",
-      "label": "Dress \u00b7 Black",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 83.61809697675959,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0881919001",
-      "label": "Sweater \u00b7 Off White",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 527.6507307514651,
-      "garment_group": "Under-, Nightwear",
-      "colour_group": "Off White"
-    },
-    {
-      "id": "0621381012",
-      "label": "Trousers \u00b7 Black",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 116.09324198911497,
-      "garment_group": "Trousers",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0572998001",
-      "label": "Trousers \u00b7 Blue",
-      "community": 17,
-      "colour": "#d62728",
-      "size": 114.37974015894468,
-      "garment_group": "Trousers",
-      "colour_group": "Blue"
-    },
-    {
-      "id": "0900422001",
-      "label": "Trousers \u00b7 Black",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 1612.9202500398153,
-      "garment_group": "Knitwear",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0895836003",
-      "label": "Trousers \u00b7 Black",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 367.1388888888889,
-      "garment_group": "Trousers",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0871274002",
-      "label": "Leggings/Tights \u00b7 Blue",
+      "id": "0921266006",
+      "label": "T-shirt \u00b7 White",
       "community": 5,
       "colour": "#ffbb78",
-      "size": 1724.8047015623874,
+      "size": 260.1642544041022,
       "garment_group": "Jersey Basic",
-      "colour_group": "Blue"
-    },
-    {
-      "id": "0918835001",
-      "label": "Vest top \u00b7 Grey",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 332.18595054058653,
-      "garment_group": "Knitwear",
-      "colour_group": "Grey"
-    },
-    {
-      "id": "0923758001",
-      "label": "Unknown \u00b7 White",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 133.8137173954089,
-      "garment_group": "Blouses",
       "colour_group": "White"
     },
     {
-      "id": "0923037001",
-      "label": "Sweater \u00b7 Black",
+      "id": "0640021024",
+      "label": "Trousers \u00b7 Dark Blue",
+      "community": 17,
+      "colour": "#d62728",
+      "size": 307.66122087317484,
+      "garment_group": "Trousers",
+      "colour_group": "Dark Blue"
+    },
+    {
+      "id": "0884319005",
+      "label": "Blouse \u00b7 Light Beige",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 181.3664547167166,
+      "garment_group": "Blouses",
+      "colour_group": "Light Beige"
+    },
+    {
+      "id": "0909869002",
+      "label": "Sweater \u00b7 Beige",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 533.2413937141705,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Beige"
+    },
+    {
+      "id": "0922381001",
+      "label": "Trousers \u00b7 Dark Grey",
+      "community": 17,
+      "colour": "#d62728",
+      "size": 120.2420663299636,
+      "garment_group": "Trousers",
+      "colour_group": "Dark Grey"
+    },
+    {
+      "id": "0918522001",
+      "label": "Sweater \u00b7 Off White",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 47.16687582567902,
+      "garment_group": "Knitwear",
+      "colour_group": "Off White"
+    },
+    {
+      "id": "0706016003",
+      "label": "Trousers \u00b7 Dark Blue",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 149.69147154895836,
+      "garment_group": "Trousers",
+      "colour_group": "Dark Blue"
+    },
+    {
+      "id": "0924243001",
+      "label": "Sweater \u00b7 Beige",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 122.1797183691732,
+      "garment_group": "Knitwear",
+      "colour_group": "Beige"
+    },
+    {
+      "id": "0926221003",
+      "label": "Skirt \u00b7 Dark Red",
       "community": 29,
       "colour": "#2ca02c",
-      "size": 164.1044827687704,
-      "garment_group": "Under-, Nightwear",
+      "size": 527.9346804511279,
+      "garment_group": "Skirts",
+      "colour_group": "Dark Red"
+    },
+    {
+      "id": "0917739001",
+      "label": "Sweater \u00b7 Black",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 1491.8854515050168,
+      "garment_group": "Knitwear",
       "colour_group": "Black"
     },
     {
-      "id": "0895836001",
+      "id": "0912204001",
+      "label": "Vest top \u00b7 Black",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 113.05303892290979,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0895610004",
       "label": "Trousers \u00b7 Black",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 367.1388888888889,
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 369.85160716746304,
       "garment_group": "Trousers",
       "colour_group": "Black"
     },
     {
-      "id": "0931720001",
-      "label": "Leggings/Tights \u00b7 Black",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 254.0862098427888,
-      "garment_group": "Socks and Tights",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0851094008",
-      "label": "Vest top \u00b7 Light Pink",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 101.73133088053117,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Light Pink"
-    },
-    {
-      "id": "0875856001",
-      "label": "Sweater \u00b7 Black",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 909.7359708902662,
-      "garment_group": "Knitwear",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0868823005",
-      "label": "Top \u00b7 Dark Pink",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 911.7517297207457,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Dark Pink"
-    },
-    {
-      "id": "0861803014",
-      "label": "Top \u00b7 Dark Pink",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 263.1566921576758,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Dark Pink"
-    },
-    {
-      "id": "0896169005",
-      "label": "Cardigan \u00b7 Light Purple",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 73.11194015671909,
-      "garment_group": "Knitwear",
-      "colour_group": "Light Purple"
-    },
-    {
-      "id": "0869459002",
-      "label": "Trousers \u00b7 Black",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 502.6995100637493,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0673677002",
-      "label": "Sweater \u00b7 Black",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 60.83984762146399,
-      "garment_group": "Knitwear",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0905803002",
-      "label": "Trousers \u00b7 Light Blue",
+      "id": "0448509014",
+      "label": "Trousers \u00b7 Blue",
       "community": 17,
       "colour": "#d62728",
-      "size": 15.428582344995652,
+      "size": 155.8637966995033,
+      "garment_group": "Trousers",
+      "colour_group": "Blue"
+    },
+    {
+      "id": "0919365008",
+      "label": "Trousers \u00b7 Blue",
+      "community": 17,
+      "colour": "#d62728",
+      "size": 79.28428019706443,
+      "garment_group": "Trousers",
+      "colour_group": "Blue"
+    },
+    {
+      "id": "0799365028",
+      "label": "Trousers \u00b7 Black",
+      "community": 17,
+      "colour": "#d62728",
+      "size": 28.44797957374341,
       "garment_group": "Trousers Denim",
-      "colour_group": "Light Blue"
-    },
-    {
-      "id": "0884319006",
-      "label": "Blouse \u00b7 Pink",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 132.485538487842,
-      "garment_group": "Blouses",
-      "colour_group": "Pink"
-    },
-    {
-      "id": "0918525001",
-      "label": "Sweater \u00b7 Beige",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 95.78412878799742,
-      "garment_group": "Knitwear",
-      "colour_group": "Beige"
+      "colour_group": "Black"
     },
     {
       "id": "0748853001",
@@ -514,20 +271,29 @@
       "colour_group": "Black"
     },
     {
-      "id": "0915529003",
-      "label": "Sweater \u00b7 Black",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 99.65022290320016,
-      "garment_group": "Knitwear",
-      "colour_group": "Black"
+      "id": "0767473009",
+      "label": "Top \u00b7 Light Beige",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 158.72545948203842,
+      "garment_group": "Blouses",
+      "colour_group": "Light Beige"
     },
     {
-      "id": "0751471001",
-      "label": "Trousers \u00b7 Black",
+      "id": "0927922001",
+      "label": "Blouse \u00b7 Beige",
       "community": 53,
       "colour": "#ff7f0e",
-      "size": 105.32348502177044,
+      "size": 174.20981997636144,
+      "garment_group": "Blouses",
+      "colour_group": "Beige"
+    },
+    {
+      "id": "0706016001",
+      "label": "Trousers \u00b7 Black",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 162.71090953307973,
       "garment_group": "Trousers",
       "colour_group": "Black"
     },
@@ -541,472 +307,13 @@
       "colour_group": "Black"
     },
     {
-      "id": "0927922001",
-      "label": "Blouse \u00b7 Beige",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 174.20981997636144,
-      "garment_group": "Blouses",
-      "colour_group": "Beige"
-    },
-    {
-      "id": "0895610004",
-      "label": "Trousers \u00b7 Black",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 369.85160716746304,
-      "garment_group": "Trousers",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0924453003",
-      "label": "Top \u00b7 Black",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 182.5119078719824,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0889652001",
-      "label": "Trousers \u00b7 Black",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 78.18010727928367,
-      "garment_group": "Trousers",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0857030005",
-      "label": "Trousers \u00b7 Blue",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 569.5377640852702,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Blue"
-    },
-    {
-      "id": "0882882005",
-      "label": "Trousers \u00b7 Black",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 755.5554871069684,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0866731003",
-      "label": "Leggings/Tights \u00b7 Light Beige",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 4.5056828124751425,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Light Beige"
-    },
-    {
-      "id": "0882336002",
-      "label": "Hoodie \u00b7 Dark Green",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 771.174017530379,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Dark Green"
-    },
-    {
-      "id": "0922381001",
-      "label": "Trousers \u00b7 Dark Grey",
-      "community": 17,
-      "colour": "#d62728",
-      "size": 120.2420663299636,
-      "garment_group": "Trousers",
-      "colour_group": "Dark Grey"
-    },
-    {
-      "id": "0909588006",
-      "label": "Blouse \u00b7 White",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 182.87062912510834,
-      "garment_group": "Blouses",
-      "colour_group": "White"
-    },
-    {
-      "id": "0448509014",
-      "label": "Trousers \u00b7 Blue",
-      "community": 17,
-      "colour": "#d62728",
-      "size": 155.8637966995033,
-      "garment_group": "Trousers",
-      "colour_group": "Blue"
-    },
-    {
-      "id": "0918292001",
-      "label": "Leggings/Tights \u00b7 Black",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 174.83322889728535,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0874891001",
-      "label": "Blouse \u00b7 Light Beige",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 85.52727537701502,
-      "garment_group": "Blouses",
-      "colour_group": "Light Beige"
-    },
-    {
-      "id": "0882882010",
-      "label": "Trousers \u00b7 Light Grey",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 625.1194145510301,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Light Grey"
-    },
-    {
-      "id": "0869459003",
-      "label": "Trousers \u00b7 Dark Blue",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 511.4310857179219,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Dark Blue"
-    },
-    {
-      "id": "0918292011",
-      "label": "Leggings/Tights \u00b7 White",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 155.68671026431764,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "White"
-    },
-    {
-      "id": "0803757019",
-      "label": "Trousers \u00b7 Dark Purple",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 158.74751587120005,
-      "garment_group": "Jersey Basic",
-      "colour_group": "Dark Purple"
-    },
-    {
-      "id": "0881691002",
-      "label": "Trousers \u00b7 Off White",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 359.39436387607117,
-      "garment_group": "Trousers",
-      "colour_group": "Off White"
-    },
-    {
-      "id": "0874114002",
-      "label": "Hoodie \u00b7 Off White",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 359.39436387607117,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Off White"
-    },
-    {
-      "id": "0921266001",
-      "label": "T-shirt \u00b7 Black",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 281.1378975517813,
-      "garment_group": "Jersey Basic",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0640021019",
-      "label": "Trousers \u00b7 Blue",
-      "community": 17,
-      "colour": "#d62728",
-      "size": 284.7612122315589,
-      "garment_group": "Trousers",
-      "colour_group": "Blue"
-    },
-    {
-      "id": "0857030003",
-      "label": "Trousers \u00b7 Dark Blue",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 556.4325948626366,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Dark Blue"
-    },
-    {
-      "id": "0921347004",
-      "label": "Sweater \u00b7 Grey",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 465.4261514414378,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Grey"
-    },
-    {
-      "id": "0884319005",
-      "label": "Blouse \u00b7 Light Beige",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 181.3664547167166,
-      "garment_group": "Blouses",
-      "colour_group": "Light Beige"
-    },
-    {
-      "id": "0554450001",
-      "label": "Trousers \u00b7 Black",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 309.70001986549863,
-      "garment_group": "Trousers",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0895610005",
-      "label": "Trousers \u00b7 Light Beige",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 326.8921419757616,
-      "garment_group": "Trousers",
-      "colour_group": "Light Beige"
-    },
-    {
-      "id": "0803757005",
-      "label": "Trousers \u00b7 Dark Green",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 205.68276416114114,
-      "garment_group": "Jersey Basic",
-      "colour_group": "Dark Green"
-    },
-    {
-      "id": "0799365028",
-      "label": "Trousers \u00b7 Black",
-      "community": 17,
-      "colour": "#d62728",
-      "size": 28.44797957374341,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0942187001",
-      "label": "T-shirt \u00b7 Black",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 353.4503572674031,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0909081003",
-      "label": "Sweater \u00b7 Beige",
+      "id": "0857778011",
+      "label": "Sweater \u00b7 Greenish Khaki",
       "community": 29,
       "colour": "#2ca02c",
-      "size": 530.5651779290664,
+      "size": 252.6762819307352,
       "garment_group": "Knitwear",
-      "colour_group": "Beige"
-    },
-    {
-      "id": "0895610001",
-      "label": "Trousers \u00b7 Dark Beige",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 466.44516417993265,
-      "garment_group": "Trousers",
-      "colour_group": "Dark Beige"
-    },
-    {
-      "id": "0917739001",
-      "label": "Sweater \u00b7 Black",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 1491.8854515050168,
-      "garment_group": "Knitwear",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0783346001",
-      "label": "Trousers \u00b7 Black",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 80.71917234312916,
-      "garment_group": "Trousers",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0919499007",
-      "label": "Trousers \u00b7 Grey",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 398.8659383307973,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Grey"
-    },
-    {
-      "id": "0905957002",
-      "label": "Leggings/Tights \u00b7 Dark Beige",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 770.1753854672459,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Dark Beige"
-    },
-    {
-      "id": "0918836001",
-      "label": "Skirt \u00b7 Grey",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 350.86923269897864,
-      "garment_group": "Knitwear",
-      "colour_group": "Grey"
-    },
-    {
-      "id": "0751471043",
-      "label": "Trousers \u00b7 Black",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 75.2804548289353,
-      "garment_group": "Trousers",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0640021024",
-      "label": "Trousers \u00b7 Dark Blue",
-      "community": 17,
-      "colour": "#d62728",
-      "size": 307.66122087317484,
-      "garment_group": "Trousers",
-      "colour_group": "Dark Blue"
-    },
-    {
-      "id": "0881919002",
-      "label": "Sweater \u00b7 Dark Grey",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 429.481534386566,
-      "garment_group": "Under-, Nightwear",
-      "colour_group": "Dark Grey"
-    },
-    {
-      "id": "0554450036",
-      "label": "Trousers \u00b7 Dark Blue",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 348.50845833696553,
-      "garment_group": "Trousers",
-      "colour_group": "Dark Blue"
-    },
-    {
-      "id": "0781613006",
-      "label": "Blazer \u00b7 Black",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 37.14615104196704,
-      "garment_group": "Dressed",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0868283004",
-      "label": "Top \u00b7 Green",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 272.7676523183241,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Green"
-    },
-    {
-      "id": "0896169002",
-      "label": "Cardigan \u00b7 Grey",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 308.45959109521084,
-      "garment_group": "Knitwear",
-      "colour_group": "Grey"
-    },
-    {
-      "id": "0893059005",
-      "label": "Cardigan \u00b7 Light Grey",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 48.162636114716044,
-      "garment_group": "Knitwear",
-      "colour_group": "Light Grey"
-    },
-    {
-      "id": "0884319009",
-      "label": "Blouse \u00b7 Black",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 52.57798095921163,
-      "garment_group": "Blouses",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0797710001",
-      "label": "Top \u00b7 Black",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 183.27383907002164,
-      "garment_group": "Knitwear",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0857163002",
-      "label": "Leggings/Tights \u00b7 Dark Grey",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 263.9375940749863,
-      "garment_group": "Jersey Basic",
-      "colour_group": "Dark Grey"
-    },
-    {
-      "id": "0881919003",
-      "label": "Sweater \u00b7 Pink",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 510.5571467817141,
-      "garment_group": "Under-, Nightwear",
-      "colour_group": "Pink"
-    },
-    {
-      "id": "0767473009",
-      "label": "Top \u00b7 Light Beige",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 158.72545948203842,
-      "garment_group": "Blouses",
-      "colour_group": "Light Beige"
-    },
-    {
-      "id": "0918890001",
-      "label": "Top \u00b7 White",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 673.2213070253238,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "White"
-    },
-    {
-      "id": "0909081004",
-      "label": "Sweater \u00b7 Dark Pink",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 426.28564137699186,
-      "garment_group": "Knitwear",
-      "colour_group": "Dark Pink"
-    },
-    {
-      "id": "0909721002",
-      "label": "Trousers \u00b7 Beige",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 304.7390730925284,
-      "garment_group": "Trousers",
-      "colour_group": "Beige"
+      "colour_group": "Greenish Khaki"
     },
     {
       "id": "0923010003",
@@ -1018,21 +325,12 @@
       "colour_group": "Black"
     },
     {
-      "id": "0905492001",
-      "label": "Cardigan \u00b7 Black",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 132.65340731327126,
-      "garment_group": "Knitwear",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0918522001",
-      "label": "Sweater \u00b7 Off White",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 47.16687582567902,
-      "garment_group": "Knitwear",
+      "id": "0881691002",
+      "label": "Trousers \u00b7 Off White",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 359.39436387607117,
+      "garment_group": "Trousers",
       "colour_group": "Off White"
     },
     {
@@ -1045,157 +343,49 @@
       "colour_group": "Blue"
     },
     {
-      "id": "0803757004",
-      "label": "Trousers \u00b7 Dark Grey",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 137.45113521017046,
-      "garment_group": "Jersey Basic",
-      "colour_group": "Dark Grey"
-    },
-    {
-      "id": "0547780040",
-      "label": "Trousers \u00b7 Light Orange",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 22.123146819703493,
-      "garment_group": "Jersey Basic",
-      "colour_group": "Light Orange"
-    },
-    {
-      "id": "0912204001",
-      "label": "Vest top \u00b7 Black",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 113.05303892290979,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0706016003",
-      "label": "Trousers \u00b7 Dark Blue",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 149.69147154895836,
-      "garment_group": "Trousers",
-      "colour_group": "Dark Blue"
-    },
-    {
-      "id": "0909869002",
-      "label": "Sweater \u00b7 Beige",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 533.2413937141705,
-      "garment_group": "Jersey Basic",
-      "colour_group": "Beige"
-    },
-    {
-      "id": "0926221003",
-      "label": "Skirt \u00b7 Dark Red",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 527.9346804511279,
-      "garment_group": "Skirts",
-      "colour_group": "Dark Red"
-    },
-    {
-      "id": "0730683062",
-      "label": "Leggings/Tights \u00b7 Green",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 151.740780042978,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Green"
-    },
-    {
-      "id": "0554450046",
-      "label": "Trousers \u00b7 Dark Blue",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 571.9822150766398,
-      "garment_group": "Trousers",
-      "colour_group": "Dark Blue"
-    },
-    {
-      "id": "0914453002",
-      "label": "Leggings/Tights \u00b7 Dark Grey",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 123.994569224281,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Dark Grey"
-    },
-    {
-      "id": "0882613001",
-      "label": "Sweater \u00b7 Beige",
+      "id": "0882337002",
+      "label": "Trousers \u00b7 Dark Green",
       "community": 2,
       "colour": "#ff9896",
-      "size": 1132.3597595616397,
-      "garment_group": "Unknown",
-      "colour_group": "Beige"
-    },
-    {
-      "id": "0867966009",
-      "label": "Trousers \u00b7 Blue",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 132.33735809365177,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Blue"
-    },
-    {
-      "id": "0894956001",
-      "label": "Vest top \u00b7 Black",
-      "community": 11,
-      "colour": "#aec7e8",
-      "size": 190.63816729050345,
+      "size": 747.9439134808853,
       "garment_group": "Jersey Fancy",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0895555001",
-      "label": "Unknown \u00b7 Black",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 74.29858346299923,
-      "garment_group": "Trousers",
-      "colour_group": "Black"
-    },
-    {
-      "id": "0923037003",
-      "label": "Sweater \u00b7 Dark Green",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 231.88721025916448,
-      "garment_group": "Under-, Nightwear",
       "colour_group": "Dark Green"
     },
     {
-      "id": "0857163003",
-      "label": "Leggings/Tights \u00b7 Beige",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 627.2306598150326,
-      "garment_group": "Jersey Basic",
-      "colour_group": "Beige"
-    },
-    {
-      "id": "0871274001",
-      "label": "Leggings/Tights \u00b7 Black",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 511.49380804953563,
-      "garment_group": "Jersey Basic",
+      "id": "0754238024",
+      "label": "Top \u00b7 Black",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 111.3710713833908,
+      "garment_group": "Jersey Fancy",
       "colour_group": "Black"
     },
     {
-      "id": "0865799006",
-      "label": "Trousers \u00b7 Light Beige",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 83.74506156763228,
-      "garment_group": "Trousers",
-      "colour_group": "Light Beige"
+      "id": "0871274002",
+      "label": "Leggings/Tights \u00b7 Blue",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 1724.8047015623874,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Blue"
+    },
+    {
+      "id": "0882882001",
+      "label": "Trousers \u00b7 Light Blue",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 654.9419586935816,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Light Blue"
+    },
+    {
+      "id": "0918292001",
+      "label": "Leggings/Tights \u00b7 Black",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 174.83322889728535,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Black"
     },
     {
       "id": "0918292004",
@@ -1207,49 +397,175 @@
       "colour_group": "Greenish Khaki"
     },
     {
-      "id": "0923755002",
-      "label": "Blouse \u00b7 Black",
-      "community": 30,
-      "colour": "#1f77b4",
-      "size": 0.0,
-      "garment_group": "Blouses",
-      "colour_group": "Black"
+      "id": "0905803002",
+      "label": "Trousers \u00b7 Light Blue",
+      "community": 17,
+      "colour": "#d62728",
+      "size": 15.428582344995652,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Light Blue"
     },
     {
-      "id": "0921266006",
-      "label": "T-shirt \u00b7 White",
-      "community": 5,
-      "colour": "#ffbb78",
-      "size": 260.1642544041022,
-      "garment_group": "Jersey Basic",
-      "colour_group": "White"
+      "id": "0875856004",
+      "label": "Sweater \u00b7 Greenish Khaki",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 773.9277461455983,
+      "garment_group": "Knitwear",
+      "colour_group": "Greenish Khaki"
     },
     {
-      "id": "0882882006",
+      "id": "0804992017",
+      "label": "Unknown \u00b7 Dark Pink",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 83.9237025313344,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Dark Pink"
+    },
+    {
+      "id": "0554450001",
       "label": "Trousers \u00b7 Black",
       "community": 45,
       "colour": "#98df8a",
-      "size": 668.7400357080982,
+      "size": 309.70001986549863,
+      "garment_group": "Trousers",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0921347003",
+      "label": "Sweater \u00b7 Green",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 191.12576279428623,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Green"
+    },
+    {
+      "id": "0895610005",
+      "label": "Trousers \u00b7 Light Beige",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 326.8921419757616,
+      "garment_group": "Trousers",
+      "colour_group": "Light Beige"
+    },
+    {
+      "id": "0881919002",
+      "label": "Sweater \u00b7 Dark Grey",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 429.481534386566,
+      "garment_group": "Under-, Nightwear",
+      "colour_group": "Dark Grey"
+    },
+    {
+      "id": "0881111001",
+      "label": "Trousers \u00b7 Black",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 50.983922101944195,
       "garment_group": "Trousers Denim",
       "colour_group": "Black"
     },
     {
-      "id": "0903951002",
-      "label": "Blouse \u00b7 Off White",
-      "community": 53,
-      "colour": "#ff7f0e",
-      "size": 154.7948062105232,
-      "garment_group": "Blouses",
+      "id": "0881919001",
+      "label": "Sweater \u00b7 Off White",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 527.6507307514651,
+      "garment_group": "Under-, Nightwear",
       "colour_group": "Off White"
     },
     {
-      "id": "0875856003",
-      "label": "Sweater \u00b7 Dark Orange",
+      "id": "0867966009",
+      "label": "Trousers \u00b7 Blue",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 132.33735809365177,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Blue"
+    },
+    {
+      "id": "0895836001",
+      "label": "Trousers \u00b7 Black",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 367.1388888888889,
+      "garment_group": "Trousers",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0794575017",
+      "label": "Hoodie \u00b7 Dark Grey",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 228.00732710020048,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Dark Grey"
+    },
+    {
+      "id": "0900279001",
+      "label": "Dress \u00b7 Black",
       "community": 2,
       "colour": "#ff9896",
-      "size": 755.2972834325433,
+      "size": 83.61809697675959,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0857163003",
+      "label": "Leggings/Tights \u00b7 Beige",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 627.2306598150326,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Beige"
+    },
+    {
+      "id": "0918890002",
+      "label": "Top \u00b7 Black",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 676.3022132541787,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0640021012",
+      "label": "Trousers \u00b7 Black",
+      "community": 17,
+      "colour": "#d62728",
+      "size": 316.87067031089475,
+      "garment_group": "Trousers",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0874114002",
+      "label": "Hoodie \u00b7 Off White",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 359.39436387607117,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Off White"
+    },
+    {
+      "id": "0875856001",
+      "label": "Sweater \u00b7 Black",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 909.7359708902662,
       "garment_group": "Knitwear",
-      "colour_group": "Dark Orange"
+      "colour_group": "Black"
+    },
+    {
+      "id": "0861803014",
+      "label": "Top \u00b7 Dark Pink",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 263.1566921576758,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Dark Pink"
     },
     {
       "id": "0909081002",
@@ -1270,40 +586,436 @@
       "colour_group": "Blue"
     },
     {
-      "id": "0882337002",
-      "label": "Trousers \u00b7 Dark Green",
-      "community": 2,
-      "colour": "#ff9896",
-      "size": 747.9439134808853,
-      "garment_group": "Jersey Fancy",
-      "colour_group": "Dark Green"
+      "id": "0893059005",
+      "label": "Cardigan \u00b7 Light Grey",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 48.162636114716044,
+      "garment_group": "Knitwear",
+      "colour_group": "Light Grey"
     },
     {
-      "id": "0918890002",
-      "label": "Top \u00b7 Black",
+      "id": "0921266007",
+      "label": "T-shirt \u00b7 Dark Purple",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 232.9777398733385,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Dark Purple"
+    },
+    {
+      "id": "0797710006",
+      "label": "Top \u00b7 Dark Beige",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 205.71670137266338,
+      "garment_group": "Knitwear",
+      "colour_group": "Dark Beige"
+    },
+    {
+      "id": "0640021019",
+      "label": "Trousers \u00b7 Blue",
+      "community": 17,
+      "colour": "#d62728",
+      "size": 284.7612122315589,
+      "garment_group": "Trousers",
+      "colour_group": "Blue"
+    },
+    {
+      "id": "0898573003",
+      "label": "Blouse \u00b7 Black",
       "community": 30,
       "colour": "#1f77b4",
-      "size": 676.3022132541787,
+      "size": 181.5270358102248,
+      "garment_group": "Blouses",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0783346001",
+      "label": "Trousers \u00b7 Black",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 80.71917234312916,
+      "garment_group": "Trousers",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0867969003",
+      "label": "Unknown \u00b7 Blue",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 236.31487747614503,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Blue"
+    },
+    {
+      "id": "0882882015",
+      "label": "Trousers \u00b7 Blue",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 923.7245147446823,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Blue"
+    },
+    {
+      "id": "0881919003",
+      "label": "Sweater \u00b7 Pink",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 510.5571467817141,
+      "garment_group": "Under-, Nightwear",
+      "colour_group": "Pink"
+    },
+    {
+      "id": "0547780040",
+      "label": "Trousers \u00b7 Light Orange",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 22.123146819703493,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Light Orange"
+    },
+    {
+      "id": "0869459002",
+      "label": "Trousers \u00b7 Black",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 502.6995100637493,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0869459003",
+      "label": "Trousers \u00b7 Dark Blue",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 511.4310857179219,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Dark Blue"
+    },
+    {
+      "id": "0909081001",
+      "label": "Sweater \u00b7 White",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 488.7839304196957,
+      "garment_group": "Knitwear",
+      "colour_group": "White"
+    },
+    {
+      "id": "0797710001",
+      "label": "Top \u00b7 Black",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 183.27383907002164,
+      "garment_group": "Knitwear",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0918835001",
+      "label": "Vest top \u00b7 Grey",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 332.18595054058653,
+      "garment_group": "Knitwear",
+      "colour_group": "Grey"
+    },
+    {
+      "id": "0851094008",
+      "label": "Vest top \u00b7 Light Pink",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 101.73133088053117,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Light Pink"
+    },
+    {
+      "id": "0926221002",
+      "label": "Skirt \u00b7 Black",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 527.9346804511279,
+      "garment_group": "Skirts",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0884319006",
+      "label": "Blouse \u00b7 Pink",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 132.485538487842,
+      "garment_group": "Blouses",
+      "colour_group": "Pink"
+    },
+    {
+      "id": "0909721002",
+      "label": "Trousers \u00b7 Beige",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 304.7390730925284,
+      "garment_group": "Trousers",
+      "colour_group": "Beige"
+    },
+    {
+      "id": "0673677002",
+      "label": "Sweater \u00b7 Black",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 60.83984762146399,
+      "garment_group": "Knitwear",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0900422001",
+      "label": "Trousers \u00b7 Black",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 1612.9202500398153,
+      "garment_group": "Knitwear",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0921266001",
+      "label": "T-shirt \u00b7 Black",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 281.1378975517813,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0942187001",
+      "label": "T-shirt \u00b7 Black",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 353.4503572674031,
       "garment_group": "Jersey Fancy",
       "colour_group": "Black"
     },
     {
-      "id": "0857778011",
-      "label": "Sweater \u00b7 Greenish Khaki",
+      "id": "0857163002",
+      "label": "Leggings/Tights \u00b7 Dark Grey",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 263.9375940749863,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Dark Grey"
+    },
+    {
+      "id": "0918836001",
+      "label": "Skirt \u00b7 Grey",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 350.86923269897864,
+      "garment_group": "Knitwear",
+      "colour_group": "Grey"
+    },
+    {
+      "id": "0857030005",
+      "label": "Trousers \u00b7 Blue",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 569.5377640852702,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Blue"
+    },
+    {
+      "id": "0882336002",
+      "label": "Hoodie \u00b7 Dark Green",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 771.174017530379,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Dark Green"
+    },
+    {
+      "id": "0909588006",
+      "label": "Blouse \u00b7 White",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 182.87062912510834,
+      "garment_group": "Blouses",
+      "colour_group": "White"
+    },
+    {
+      "id": "0918890001",
+      "label": "Top \u00b7 White",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 673.2213070253238,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "White"
+    },
+    {
+      "id": "0909081004",
+      "label": "Sweater \u00b7 Dark Pink",
       "community": 29,
       "colour": "#2ca02c",
-      "size": 252.6762819307352,
+      "size": 426.28564137699186,
       "garment_group": "Knitwear",
+      "colour_group": "Dark Pink"
+    },
+    {
+      "id": "0803757019",
+      "label": "Trousers \u00b7 Dark Purple",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 158.74751587120005,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Dark Purple"
+    },
+    {
+      "id": "0882882006",
+      "label": "Trousers \u00b7 Black",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 668.7400357080982,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0803757005",
+      "label": "Trousers \u00b7 Dark Green",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 205.68276416114114,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Dark Green"
+    },
+    {
+      "id": "0714790028",
+      "label": "Trousers \u00b7 Black",
+      "community": 17,
+      "colour": "#d62728",
+      "size": 104.58165325909032,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0874891001",
+      "label": "Blouse \u00b7 Light Beige",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 85.52727537701502,
+      "garment_group": "Blouses",
+      "colour_group": "Light Beige"
+    },
+    {
+      "id": "0896169005",
+      "label": "Cardigan \u00b7 Light Purple",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 73.11194015671909,
+      "garment_group": "Knitwear",
+      "colour_group": "Light Purple"
+    },
+    {
+      "id": "0923037003",
+      "label": "Sweater \u00b7 Dark Green",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 231.88721025916448,
+      "garment_group": "Under-, Nightwear",
+      "colour_group": "Dark Green"
+    },
+    {
+      "id": "0931720001",
+      "label": "Leggings/Tights \u00b7 Black",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 254.0862098427888,
+      "garment_group": "Socks and Tights",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0896169002",
+      "label": "Cardigan \u00b7 Grey",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 308.45959109521084,
+      "garment_group": "Knitwear",
+      "colour_group": "Grey"
+    },
+    {
+      "id": "0919273002",
+      "label": "Blouse \u00b7 Black",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 95.04755292270666,
+      "garment_group": "Blouses",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0915529003",
+      "label": "Sweater \u00b7 Black",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 99.65022290320016,
+      "garment_group": "Knitwear",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0919499007",
+      "label": "Trousers \u00b7 Grey",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 398.8659383307973,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Grey"
+    },
+    {
+      "id": "0882882010",
+      "label": "Trousers \u00b7 Light Grey",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 625.1194145510301,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Light Grey"
+    },
+    {
+      "id": "0918292003",
+      "label": "Leggings/Tights \u00b7 Dark Pink",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 960.9182500236997,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Dark Pink"
+    },
+    {
+      "id": "0882613003",
+      "label": "Sweater \u00b7 Greenish Khaki",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 1309.9848198850343,
+      "garment_group": "Unknown",
       "colour_group": "Greenish Khaki"
     },
     {
-      "id": "0882882001",
-      "label": "Trousers \u00b7 Light Blue",
-      "community": 45,
-      "colour": "#98df8a",
-      "size": 654.9419586935816,
-      "garment_group": "Trousers Denim",
-      "colour_group": "Light Blue"
+      "id": "0895836003",
+      "label": "Trousers \u00b7 Black",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 367.1388888888889,
+      "garment_group": "Trousers",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0895610003",
+      "label": "Trousers \u00b7 Dark Green",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 430.10643805698925,
+      "garment_group": "Trousers",
+      "colour_group": "Dark Green"
+    },
+    {
+      "id": "0803757004",
+      "label": "Trousers \u00b7 Dark Grey",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 137.45113521017046,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Dark Grey"
     },
     {
       "id": "0886270006",
@@ -1315,22 +1027,166 @@
       "colour_group": "Blue"
     },
     {
-      "id": "0881111001",
+      "id": "0918525001",
+      "label": "Sweater \u00b7 Beige",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 95.78412878799742,
+      "garment_group": "Knitwear",
+      "colour_group": "Beige"
+    },
+    {
+      "id": "0905957007",
+      "label": "Leggings/Tights \u00b7 Greyish Beige",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 281.38242544946064,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Greyish Beige"
+    },
+    {
+      "id": "0868283004",
+      "label": "Top \u00b7 Green",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 272.7676523183241,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Green"
+    },
+    {
+      "id": "0869331003",
+      "label": "Top \u00b7 Dark Beige",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 749.9090936195587,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Dark Beige"
+    },
+    {
+      "id": "0893141002",
+      "label": "Sweater \u00b7 Beige",
+      "community": 29,
+      "colour": "#2ca02c",
+      "size": 58.695034103717695,
+      "garment_group": "Knitwear",
+      "colour_group": "Beige"
+    },
+    {
+      "id": "0751471043",
+      "label": "Trousers \u00b7 Black",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 75.2804548289353,
+      "garment_group": "Trousers",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0910447001",
+      "label": "Trousers \u00b7 Black",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 0.0,
+      "garment_group": "Trousers",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0921347004",
+      "label": "Sweater \u00b7 Grey",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 465.4261514414378,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Grey"
+    },
+    {
+      "id": "0882882005",
       "label": "Trousers \u00b7 Black",
       "community": 45,
       "colour": "#98df8a",
-      "size": 50.983922101944195,
+      "size": 755.5554871069684,
       "garment_group": "Trousers Denim",
       "colour_group": "Black"
     },
     {
-      "id": "0754238024",
-      "label": "Top \u00b7 Black",
+      "id": "0751471001",
+      "label": "Trousers \u00b7 Black",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 105.32348502177044,
+      "garment_group": "Trousers",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0895555001",
+      "label": "Unknown \u00b7 Black",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 74.29858346299923,
+      "garment_group": "Trousers",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0554450046",
+      "label": "Trousers \u00b7 Dark Blue",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 571.9822150766398,
+      "garment_group": "Trousers",
+      "colour_group": "Dark Blue"
+    },
+    {
+      "id": "0884319009",
+      "label": "Blouse \u00b7 Black",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 52.57798095921163,
+      "garment_group": "Blouses",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0886270003",
+      "label": "Trousers \u00b7 Black",
+      "community": 17,
+      "colour": "#d62728",
+      "size": 783.8653679653679,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0889652001",
+      "label": "Trousers \u00b7 Black",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 78.18010727928367,
+      "garment_group": "Trousers",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0923755002",
+      "label": "Blouse \u00b7 Black",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 0.0,
+      "garment_group": "Blouses",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0554450043",
+      "label": "Trousers \u00b7 Light Grey",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 499.04556894437945,
+      "garment_group": "Trousers",
+      "colour_group": "Light Grey"
+    },
+    {
+      "id": "0914453002",
+      "label": "Leggings/Tights \u00b7 Dark Grey",
       "community": 11,
       "colour": "#aec7e8",
-      "size": 111.3710713833908,
+      "size": 123.994569224281,
       "garment_group": "Jersey Fancy",
-      "colour_group": "Black"
+      "colour_group": "Dark Grey"
     },
     {
       "id": "0865430006",
@@ -1342,690 +1198,219 @@
       "colour_group": "Black"
     },
     {
-      "id": "0893141002",
+      "id": "0706016038",
+      "label": "Trousers \u00b7 Blue",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 114.73906597224247,
+      "garment_group": "Trousers",
+      "colour_group": "Blue"
+    },
+    {
+      "id": "0894956001",
+      "label": "Vest top \u00b7 Black",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 190.63816729050345,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0882882002",
+      "label": "Trousers \u00b7 Dark Blue",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 671.2281064622483,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Dark Blue"
+    },
+    {
+      "id": "0783346032",
+      "label": "Trousers \u00b7 Dark Orange",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 52.96673642602327,
+      "garment_group": "Trousers",
+      "colour_group": "Dark Orange"
+    },
+    {
+      "id": "0621381012",
+      "label": "Trousers \u00b7 Black",
+      "community": 45,
+      "colour": "#98df8a",
+      "size": 116.09324198911497,
+      "garment_group": "Trousers",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0865799006",
+      "label": "Trousers \u00b7 Light Beige",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 83.74506156763228,
+      "garment_group": "Trousers",
+      "colour_group": "Light Beige"
+    },
+    {
+      "id": "0895610001",
+      "label": "Trousers \u00b7 Dark Beige",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 466.44516417993265,
+      "garment_group": "Trousers",
+      "colour_group": "Dark Beige"
+    },
+    {
+      "id": "0572998001",
+      "label": "Trousers \u00b7 Blue",
+      "community": 17,
+      "colour": "#d62728",
+      "size": 114.37974015894468,
+      "garment_group": "Trousers",
+      "colour_group": "Blue"
+    },
+    {
+      "id": "0868823005",
+      "label": "Top \u00b7 Dark Pink",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 911.7517297207457,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Dark Pink"
+    },
+    {
+      "id": "0928206001",
+      "label": "Shirt \u00b7 White",
+      "community": 30,
+      "colour": "#1f77b4",
+      "size": 246.65573383254227,
+      "garment_group": "Blouses",
+      "colour_group": "White"
+    },
+    {
+      "id": "0903951002",
+      "label": "Blouse \u00b7 Off White",
+      "community": 53,
+      "colour": "#ff7f0e",
+      "size": 154.7948062105232,
+      "garment_group": "Blouses",
+      "colour_group": "Off White"
+    },
+    {
+      "id": "0866731003",
+      "label": "Leggings/Tights \u00b7 Light Beige",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 4.5056828124751425,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Light Beige"
+    },
+    {
+      "id": "0730683062",
+      "label": "Leggings/Tights \u00b7 Green",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 151.740780042978,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Green"
+    },
+    {
+      "id": "0698387022",
+      "label": "Trousers \u00b7 Black",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 433.8825891116346,
+      "garment_group": "Trousers Denim",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0882613001",
       "label": "Sweater \u00b7 Beige",
-      "community": 29,
-      "colour": "#2ca02c",
-      "size": 58.695034103717695,
-      "garment_group": "Knitwear",
+      "community": 2,
+      "colour": "#ff9896",
+      "size": 1132.3597595616397,
+      "garment_group": "Unknown",
       "colour_group": "Beige"
+    },
+    {
+      "id": "0871274001",
+      "label": "Leggings/Tights \u00b7 Black",
+      "community": 5,
+      "colour": "#ffbb78",
+      "size": 511.49380804953563,
+      "garment_group": "Jersey Basic",
+      "colour_group": "Black"
+    },
+    {
+      "id": "0905957002",
+      "label": "Leggings/Tights \u00b7 Dark Beige",
+      "community": 11,
+      "colour": "#aec7e8",
+      "size": 770.1753854672459,
+      "garment_group": "Jersey Fancy",
+      "colour_group": "Dark Beige"
     }
   ],
   "links": [
     {
-      "source": "0867969003",
-      "target": "0869459001",
-      "weight": 36.77347553906793
-    },
-    {
-      "source": "0867969003",
-      "target": "0554450046",
-      "weight": 36.39041850220264
-    },
-    {
-      "source": "0867969003",
-      "target": "0869459003",
-      "weight": 33.591155540494746
-    },
-    {
-      "source": "0867969003",
-      "target": "0554450036",
-      "weight": 29.171266653587544
-    },
-    {
-      "source": "0867969003",
-      "target": "0867966009",
-      "weight": 18.87540398946025
-    },
-    {
-      "source": "0867969003",
-      "target": "0882882015",
-      "weight": 18.19520925110132
-    },
-    {
-      "source": "0867969003",
-      "target": "0554450001",
-      "weight": 15.673101038077377
-    },
-    {
-      "source": "0867969003",
-      "target": "0882882002",
-      "weight": 15.448762571689802
-    },
-    {
-      "source": "0867969003",
-      "target": "0706016003",
-      "weight": 7.869847421264277
-    },
-    {
-      "source": "0867969003",
-      "target": "0706016038",
-      "weight": 6.703498145142592
-    },
-    {
-      "source": "0867969003",
-      "target": "0881111001",
-      "weight": 4.2465318187335335
-    },
-    {
-      "source": "0867969003",
-      "target": "0706016001",
-      "weight": 4.072213589933812
-    },
-    {
-      "source": "0867969003",
-      "target": "0448509014",
-      "weight": 3.6050809427882013
-    },
-    {
-      "source": "0867969003",
-      "target": "0919365008",
-      "weight": 2.9397400503615354
-    },
-    {
-      "source": "0867969003",
-      "target": "0714790020",
-      "weight": 2.759172422239459
-    },
-    {
-      "source": "0921266007",
-      "target": "0921266001",
-      "weight": 103.7596261682243
-    },
-    {
-      "source": "0921266007",
-      "target": "0921266006",
-      "weight": 84.71735174923496
-    },
-    {
-      "source": "0921266007",
-      "target": "0942187001",
-      "weight": 22.623326828934307
-    },
-    {
-      "source": "0921266007",
-      "target": "0803757019",
-      "weight": 21.877435126944917
-    },
-    {
-      "source": "0919273002",
-      "target": "0884319009",
-      "weight": 23.245568894650106
-    },
-    {
-      "source": "0919273002",
-      "target": "0918890002",
-      "weight": 23.1201166180758
-    },
-    {
-      "source": "0919273002",
-      "target": "0898573003",
-      "weight": 19.61190081933722
-    },
-    {
-      "source": "0919273002",
-      "target": "0928206001",
-      "weight": 9.818054860866939
-    },
-    {
-      "source": "0919273002",
-      "target": "0918525001",
-      "weight": 5.230795614949276
-    },
-    {
-      "source": "0919273002",
-      "target": "0923758001",
-      "weight": 4.655949836781663
-    },
-    {
-      "source": "0919273002",
-      "target": "0884319005",
-      "weight": 3.9521566868505644
-    },
-    {
-      "source": "0919273002",
-      "target": "0673677002",
-      "weight": 2.835829968924665
-    },
-    {
-      "source": "0919273002",
-      "target": "0915529003",
-      "weight": 2.57717962227043
-    },
-    {
-      "source": "0886270003",
-      "target": "0886270006",
-      "weight": 720.9272727272727
-    },
-    {
-      "source": "0886270003",
-      "target": "0922381001",
-      "weight": 62.93809523809524
-    },
-    {
-      "source": "0804992017",
-      "target": "0851094008",
-      "weight": 23.550331209122923
-    },
-    {
-      "source": "0804992017",
-      "target": "0730683062",
-      "weight": 23.342948933593487
-    },
-    {
-      "source": "0804992017",
-      "target": "0912204001",
-      "weight": 14.288322130190828
-    },
-    {
-      "source": "0804992017",
-      "target": "0918292001",
-      "weight": 9.370174916337
-    },
-    {
-      "source": "0804992017",
-      "target": "0754238024",
-      "weight": 8.399639025878285
-    },
-    {
-      "source": "0804992017",
-      "target": "0918292004",
-      "weight": 4.972286316211878
-    },
-    {
-      "source": "0706016001",
-      "target": "0706016038",
-      "weight": 30.049910500332015
-    },
-    {
-      "source": "0706016001",
-      "target": "0706016003",
-      "weight": 27.165224644215044
-    },
-    {
-      "source": "0706016001",
-      "target": "0554450001",
-      "weight": 12.651848221026162
-    },
-    {
-      "source": "0706016001",
-      "target": "0867966009",
-      "weight": 11.942398788071424
-    },
-    {
-      "source": "0706016001",
-      "target": "0881111001",
-      "weight": 9.870527057915648
-    },
-    {
-      "source": "0706016001",
-      "target": "0621381012",
-      "weight": 9.83545735583649
-    },
-    {
-      "source": "0706016001",
-      "target": "0869459002",
-      "weight": 8.861278722496495
-    },
-    {
-      "source": "0706016001",
-      "target": "0554450036",
-      "weight": 7.925251120966685
-    },
-    {
-      "source": "0706016001",
-      "target": "0882882005",
-      "weight": 7.048744438349485
-    },
-    {
-      "source": "0706016001",
-      "target": "0640021019",
-      "weight": 3.771747643311698
-    },
-    {
-      "source": "0706016001",
-      "target": "0797710001",
-      "weight": 3.2331692636135863
-    },
-    {
-      "source": "0706016001",
-      "target": "0919365008",
-      "weight": 2.928451964594925
-    },
-    {
-      "source": "0706016001",
-      "target": "0448509014",
-      "weight": 2.732463744945242
-    },
-    {
-      "source": "0706016001",
-      "target": "0781613006",
-      "weight": 2.626861281372479
-    },
-    {
-      "source": "0706016001",
-      "target": "0572998001",
-      "weight": 2.6026133310828867
-    },
-    {
-      "source": "0706016001",
-      "target": "0857778011",
-      "weight": 2.490505123255434
-    },
-    {
-      "source": "0706016001",
-      "target": "0714790028",
-      "weight": 2.2438526213649372
-    },
-    {
-      "source": "0706016001",
-      "target": "0884319006",
-      "weight": 2.018911950163749
-    },
-    {
-      "source": "0706016001",
-      "target": "0923037001",
-      "weight": 1.9012597386157453
-    },
-    {
-      "source": "0706016001",
-      "target": "0762846006",
-      "weight": 1.7909762368515747
-    },
-    {
-      "source": "0706016001",
-      "target": "0794575017",
-      "weight": 1.785748063199025
-    },
-    {
-      "source": "0706016001",
-      "target": "0874891001",
-      "weight": 1.6078933165820253
-    },
-    {
-      "source": "0706016001",
-      "target": "0803757004",
-      "weight": 1.5536008149831517
-    },
-    {
-      "source": "0882882015",
-      "target": "0882882001",
-      "weight": 248.93239492466296
-    },
-    {
-      "source": "0882882015",
-      "target": "0882882010",
-      "weight": 219.11472148541114
-    },
-    {
-      "source": "0882882015",
-      "target": "0882882002",
-      "weight": 191.82873730043542
-    },
-    {
-      "source": "0882882015",
-      "target": "0882882005",
-      "weight": 121.59514482431149
-    },
-    {
-      "source": "0882882015",
-      "target": "0882882006",
-      "weight": 88.04187905468027
-    },
-    {
-      "source": "0882882015",
-      "target": "0554450036",
-      "weight": 36.01642790407973
-    },
-    {
-      "source": "0909081001",
-      "target": "0909081002",
-      "weight": 171.5008650519031
-    },
-    {
-      "source": "0909081001",
-      "target": "0909081003",
-      "weight": 155.79086214638528
-    },
-    {
-      "source": "0909081001",
-      "target": "0909081004",
-      "weight": 116.9805283224401
-    },
-    {
-      "source": "0909081001",
-      "target": "0857778011",
-      "weight": 44.51167489896722
-    },
-    {
-      "source": "0640021012",
-      "target": "0640021024",
-      "weight": 156.1636821929318
-    },
-    {
-      "source": "0640021012",
-      "target": "0640021019",
-      "weight": 112.92529851061137
-    },
-    {
-      "source": "0640021012",
-      "target": "0621381012",
-      "weight": 37.39319866462966
-    },
-    {
-      "source": "0640021012",
-      "target": "0448509014",
-      "weight": 10.388490942721951
-    },
-    {
-      "source": "0869331003",
-      "target": "0905957002",
-      "weight": 718.9467032967033
-    },
-    {
-      "source": "0869331003",
-      "target": "0905957007",
-      "weight": 30.962390322855438
-    },
-    {
-      "source": "0926221002",
-      "target": "0926221003",
-      "weight": 527.9346804511279
-    },
-    {
-      "source": "0921347003",
-      "target": "0921347004",
-      "weight": 135.51264524948735
-    },
-    {
-      "source": "0921347003",
-      "target": "0919499007",
-      "weight": 35.339572192513366
-    },
-    {
-      "source": "0921347003",
-      "target": "0803757005",
-      "weight": 20.27354535228551
-    },
-    {
-      "source": "0875856004",
-      "target": "0875856003",
-      "weight": 472.7861685214626
-    },
-    {
-      "source": "0875856004",
-      "target": "0875856001",
-      "weight": 301.1415776241358
-    },
-    {
-      "source": "0905957007",
-      "target": "0914453002",
-      "weight": 98.24678772432834
-    },
-    {
-      "source": "0905957007",
-      "target": "0905957002",
-      "weight": 51.22868217054263
-    },
-    {
-      "source": "0905957007",
-      "target": "0924453003",
-      "weight": 28.40402179752859
-    },
-    {
-      "source": "0905957007",
-      "target": "0861803014",
-      "weight": 20.32884213116771
-    },
-    {
-      "source": "0905957007",
-      "target": "0918292004",
-      "weight": 12.70552633197982
-    },
-    {
-      "source": "0905957007",
-      "target": "0730683062",
-      "weight": 11.247814448622135
-    },
-    {
-      "source": "0905957007",
-      "target": "0918292011",
-      "weight": 10.754112669388721
-    },
-    {
-      "source": "0905957007",
-      "target": "0918292001",
-      "weight": 9.777448128983526
-    },
-    {
-      "source": "0905957007",
-      "target": "0754238024",
-      "weight": 7.726799724063746
-    },
-    {
-      "source": "0928206001",
-      "target": "0918890001",
-      "weight": 98.44418156326674
-    },
-    {
-      "source": "0928206001",
-      "target": "0918890002",
-      "weight": 78.62298332582245
-    },
-    {
-      "source": "0928206001",
-      "target": "0898573003",
-      "weight": 27.41523702519338
-    },
-    {
-      "source": "0928206001",
-      "target": "0924243001",
-      "weight": 12.488220739561182
-    },
-    {
-      "source": "0928206001",
-      "target": "0918525001",
-      "weight": 10.51109402751637
-    },
-    {
-      "source": "0928206001",
-      "target": "0923758001",
-      "weight": 9.355962290315203
-    },
-    {
-      "source": "0706016038",
-      "target": "0706016003",
-      "weight": 30.97688820752636
-    },
-    {
-      "source": "0706016038",
-      "target": "0867966009",
-      "weight": 22.347977127397932
-    },
-    {
-      "source": "0706016038",
-      "target": "0621381012",
-      "weight": 11.234360125118998
-    },
-    {
-      "source": "0706016038",
-      "target": "0554450036",
-      "weight": 9.681107500532708
-    },
-    {
-      "source": "0706016038",
-      "target": "0448509014",
-      "weight": 3.7453243661918614
-    },
-    {
-      "source": "0714790028",
-      "target": "0922381001",
-      "weight": 20.777362939673807
-    },
-    {
-      "source": "0714790028",
-      "target": "0799365028",
-      "weight": 20.333110113661043
-    },
-    {
-      "source": "0714790028",
-      "target": "0714790020",
-      "weight": 19.298266757363415
-    },
-    {
-      "source": "0714790028",
-      "target": "0919365008",
-      "weight": 11.348712621578256
-    },
-    {
-      "source": "0714790028",
-      "target": "0572998001",
-      "weight": 11.187810813670511
-    },
-    {
-      "source": "0714790028",
-      "target": "0448509014",
-      "weight": 7.243364592662665
-    },
-    {
-      "source": "0714790028",
-      "target": "0881111001",
-      "weight": 5.30378389464931
-    },
-    {
-      "source": "0714790028",
-      "target": "0893141002",
-      "weight": 4.065857763754059
-    },
-    {
-      "source": "0714790028",
-      "target": "0751471043",
-      "weight": 2.7795311407123084
-    },
-    {
-      "source": "0783346032",
-      "target": "0783346001",
-      "weight": 37.547990681893815
-    },
-    {
-      "source": "0783346032",
-      "target": "0751471001",
-      "weight": 5.453521956970233
-    },
-    {
-      "source": "0783346032",
-      "target": "0762846006",
-      "weight": 5.167694966414088
-    },
-    {
-      "source": "0783346032",
-      "target": "0751471043",
-      "weight": 4.7975288207451285
-    },
-    {
-      "source": "0924243001",
-      "target": "0923758001",
-      "weight": 54.48428199575731
-    },
-    {
-      "source": "0924243001",
-      "target": "0918522001",
-      "weight": 11.031481904085737
-    },
-    {
-      "source": "0924243001",
-      "target": "0865799006",
-      "weight": 9.06587627734556
-    },
-    {
-      "source": "0924243001",
-      "target": "0918525001",
-      "weight": 9.048607941579188
-    },
-    {
-      "source": "0924243001",
-      "target": "0909721002",
-      "weight": 6.1645017606865515
-    },
-    {
-      "source": "0924243001",
-      "target": "0898573003",
-      "weight": 6.073723138868222
-    },
-    {
-      "source": "0924243001",
-      "target": "0893141002",
-      "weight": 4.721850789535465
-    },
-    {
-      "source": "0924243001",
-      "target": "0896169005",
-      "weight": 4.49373434936534
-    },
-    {
-      "source": "0924243001",
-      "target": "0896169002",
-      "weight": 2.4790706689258046
-    },
-    {
-      "source": "0924243001",
-      "target": "0874891001",
-      "weight": 2.1283688034628465
-    },
-    {
-      "source": "0882613003",
-      "target": "0882613001",
-      "weight": 739.9698535745048
-    },
-    {
-      "source": "0882613003",
-      "target": "0882613002",
-      "weight": 399.2526924087208
-    },
-    {
-      "source": "0882613003",
-      "target": "0875856001",
-      "weight": 170.76227390180878
-    },
-    {
-      "source": "0918292003",
-      "target": "0868823005",
-      "weight": 866.2008473454257
-    },
-    {
-      "source": "0918292003",
-      "target": "0918292004",
-      "weight": 42.653829604130806
-    },
-    {
-      "source": "0918292003",
-      "target": "0918292011",
+      "source": "0918292011",
+      "target": "0918292003",
       "weight": 36.46739630276833
     },
     {
-      "source": "0918292003",
+      "source": "0918292011",
+      "target": "0918292004",
+      "weight": 23.646827290076335
+    },
+    {
+      "source": "0918292011",
       "target": "0918292001",
-      "weight": 15.5961767713748
+      "weight": 21.283332247019988
     },
     {
-      "source": "0794575017",
-      "target": "0857163002",
-      "weight": 161.499288023399
+      "source": "0918292011",
+      "target": "0851094008",
+      "weight": 20.705679617181268
     },
     {
-      "source": "0794575017",
-      "target": "0909869002",
-      "weight": 30.840808918848847
+      "source": "0918292011",
+      "target": "0924453003",
+      "weight": 20.228573048144508
     },
     {
-      "source": "0794575017",
-      "target": "0857163003",
-      "weight": 22.39176896812365
+      "source": "0918292011",
+      "target": "0905957007",
+      "weight": 10.754112669388721
     },
     {
-      "source": "0794575017",
-      "target": "0919499007",
-      "weight": 11.489713126629962
+      "source": "0918292011",
+      "target": "0894956001",
+      "weight": 8.77162063310405
+    },
+    {
+      "source": "0918292011",
+      "target": "0730683062",
+      "weight": 7.551880970882662
+    },
+    {
+      "source": "0918292011",
+      "target": "0754238024",
+      "weight": 6.2772874857517875
+    },
+    {
+      "source": "0869459001",
+      "target": "0869459002",
+      "weight": 247.3356725146199
+    },
+    {
+      "source": "0869459001",
+      "target": "0869459003",
+      "weight": 229.3290919606709
+    },
+    {
+      "source": "0869459001",
+      "target": "0867969003",
+      "weight": 36.77347553906793
     },
     {
       "source": "0868283001",
@@ -2073,19 +1458,144 @@
       "weight": 6.841097308488613
     },
     {
-      "source": "0698387022",
-      "target": "0857030005",
-      "weight": 196.57753833950292
+      "source": "0923037001",
+      "target": "0923037003",
+      "weight": 46.70491742300253
     },
     {
-      "source": "0698387022",
-      "target": "0857030003",
-      "weight": 183.47236911686937
+      "source": "0923037001",
+      "target": "0881919003",
+      "weight": 28.883304195804197
     },
     {
-      "source": "0698387022",
-      "target": "0889652001",
-      "weight": 53.8326816552623
+      "source": "0923037001",
+      "target": "0881919002",
+      "weight": 25.865645548481368
+    },
+    {
+      "source": "0923037001",
+      "target": "0797710001",
+      "weight": 15.9248487998488
+    },
+    {
+      "source": "0923037001",
+      "target": "0797710006",
+      "weight": 13.863986013986015
+    },
+    {
+      "source": "0923037001",
+      "target": "0919365008",
+      "weight": 6.787753250421549
+    },
+    {
+      "source": "0923037001",
+      "target": "0673677002",
+      "weight": 6.3161667489685716
+    },
+    {
+      "source": "0923037001",
+      "target": "0893141002",
+      "weight": 5.167619920016086
+    },
+    {
+      "source": "0923037001",
+      "target": "0893059005",
+      "weight": 3.9755955723109007
+    },
+    {
+      "source": "0923037001",
+      "target": "0762846006",
+      "weight": 3.4881941023295093
+    },
+    {
+      "source": "0923037001",
+      "target": "0915529003",
+      "weight": 2.870040942982979
+    },
+    {
+      "source": "0923037001",
+      "target": "0751471043",
+      "weight": 2.355150512002154
+    },
+    {
+      "source": "0923037001",
+      "target": "0706016001",
+      "weight": 1.9012597386157453
+    },
+    {
+      "source": "0905492001",
+      "target": "0865430006",
+      "weight": 83.2514487276392
+    },
+    {
+      "source": "0905492001",
+      "target": "0942187001",
+      "weight": 49.40195858563205
+    },
+    {
+      "source": "0923758001",
+      "target": "0924243001",
+      "weight": 54.48428199575731
+    },
+    {
+      "source": "0923758001",
+      "target": "0918522001",
+      "weight": 15.491092358180966
+    },
+    {
+      "source": "0923758001",
+      "target": "0865799006",
+      "weight": 10.449230931403122
+    },
+    {
+      "source": "0923758001",
+      "target": "0918525001",
+      "weight": 9.585779075726954
+    },
+    {
+      "source": "0923758001",
+      "target": "0928206001",
+      "weight": 9.355962290315203
+    },
+    {
+      "source": "0923758001",
+      "target": "0909721002",
+      "weight": 7.771244739737764
+    },
+    {
+      "source": "0923758001",
+      "target": "0898573003",
+      "weight": 6.250453205542507
+    },
+    {
+      "source": "0923758001",
+      "target": "0896169005",
+      "weight": 6.165987621683824
+    },
+    {
+      "source": "0923758001",
+      "target": "0919273002",
+      "weight": 4.655949836781663
+    },
+    {
+      "source": "0923758001",
+      "target": "0893141002",
+      "weight": 3.401471339757424
+    },
+    {
+      "source": "0923758001",
+      "target": "0884319005",
+      "weight": 2.414196211664566
+    },
+    {
+      "source": "0923758001",
+      "target": "0896169002",
+      "weight": 2.232304716265181
+    },
+    {
+      "source": "0923758001",
+      "target": "0915529003",
+      "weight": 1.5557630725924116
     },
     {
       "source": "0762846006",
@@ -2114,6 +1624,11 @@
     },
     {
       "source": "0762846006",
+      "target": "0783346032",
+      "weight": 5.167694966414088
+    },
+    {
+      "source": "0762846006",
       "target": "0751471001",
       "weight": 5.003754298514055
     },
@@ -2126,11 +1641,6 @@
       "source": "0762846006",
       "target": "0751471043",
       "weight": 3.492144492026372
-    },
-    {
-      "source": "0762846006",
-      "target": "0923037001",
-      "weight": 3.4881941023295093
     },
     {
       "source": "0762846006",
@@ -2163,109 +1673,699 @@
       "weight": 1.9281741127531382
     },
     {
-      "source": "0554450043",
+      "source": "0762846006",
+      "target": "0706016001",
+      "weight": 1.7909762368515747
+    },
+    {
+      "source": "0909081003",
+      "target": "0909081002",
+      "weight": 165.32907819616395
+    },
+    {
+      "source": "0909081003",
+      "target": "0909081001",
+      "weight": 155.79086214638528
+    },
+    {
+      "source": "0909081003",
+      "target": "0909081004",
+      "weight": 140.12934690415605
+    },
+    {
+      "source": "0909081003",
+      "target": "0857778011",
+      "weight": 69.31589068236117
+    },
+    {
+      "source": "0554450036",
       "target": "0554450046",
-      "weight": 342.9319291819292
+      "weight": 85.99840948525159
     },
     {
-      "source": "0554450043",
+      "source": "0554450036",
       "target": "0554450001",
-      "weight": 94.37119192688499
+      "weight": 71.52342967090232
     },
     {
-      "source": "0554450043",
-      "target": "0554450036",
+      "source": "0554450036",
+      "target": "0554450043",
       "weight": 61.742447835565244
     },
     {
-      "source": "0895610003",
-      "target": "0895610001",
-      "weight": 149.50229997737728
+      "source": "0554450036",
+      "target": "0882882015",
+      "weight": 36.01642790407973
     },
     {
-      "source": "0895610003",
-      "target": "0895610004",
-      "weight": 95.80107382550335
+      "source": "0554450036",
+      "target": "0867969003",
+      "weight": 29.171266653587544
     },
     {
-      "source": "0895610003",
-      "target": "0927922001",
-      "weight": 65.29025993935883
+      "source": "0554450036",
+      "target": "0882882002",
+      "weight": 18.930467496753494
     },
     {
-      "source": "0895610003",
-      "target": "0895610005",
-      "weight": 61.239645053494705
+      "source": "0554450036",
+      "target": "0867966009",
+      "weight": 15.940515153808317
     },
     {
-      "source": "0895610003",
-      "target": "0909721002",
-      "weight": 58.27315926125508
+      "source": "0554450036",
+      "target": "0706016038",
+      "weight": 9.681107500532708
     },
     {
-      "source": "0797710006",
-      "target": "0797710001",
-      "weight": 144.67256756756757
+      "source": "0554450036",
+      "target": "0706016003",
+      "weight": 8.410014897970957
     },
     {
-      "source": "0797710006",
-      "target": "0923037003",
-      "weight": 21.09095744680851
+      "source": "0554450036",
+      "target": "0706016001",
+      "weight": 7.925251120966685
     },
     {
-      "source": "0797710006",
-      "target": "0909721002",
-      "weight": 16.079075425790755
+      "source": "0554450036",
+      "target": "0448509014",
+      "weight": 3.1691206175469597
     },
     {
-      "source": "0797710006",
-      "target": "0923037001",
-      "weight": 13.863986013986015
+      "source": "0924453003",
+      "target": "0868283004",
+      "weight": 32.49868861058291
     },
     {
-      "source": "0797710006",
-      "target": "0673677002",
-      "weight": 5.5196279422930905
+      "source": "0924453003",
+      "target": "0905957007",
+      "weight": 28.40402179752859
     },
     {
-      "source": "0797710006",
-      "target": "0751471043",
-      "weight": 4.490486976217441
+      "source": "0924453003",
+      "target": "0861803014",
+      "weight": 26.483851956624235
     },
     {
-      "source": "0898573003",
-      "target": "0918890001",
-      "weight": 50.292998477929984
+      "source": "0924453003",
+      "target": "0894956001",
+      "weight": 23.0574930754281
     },
     {
-      "source": "0898573003",
-      "target": "0918890002",
-      "weight": 43.45315068493151
+      "source": "0924453003",
+      "target": "0754238024",
+      "weight": 10.65839344115407
     },
     {
-      "source": "0898573003",
-      "target": "0918525001",
-      "weight": 17.34474502129619
+      "source": "0924453003",
+      "target": "0918292001",
+      "weight": 9.464610549452736
     },
     {
-      "source": "0898573003",
+      "source": "0924453003",
+      "target": "0918292004",
+      "weight": 8.957773455917021
+    },
+    {
+      "source": "0781613006",
+      "target": "0751471001",
+      "weight": 6.0547642845244045
+    },
+    {
+      "source": "0781613006",
+      "target": "0909588006",
+      "weight": 5.852938808373591
+    },
+    {
+      "source": "0781613006",
+      "target": "0783346001",
+      "weight": 3.86557730156764
+    },
+    {
+      "source": "0781613006",
+      "target": "0448509014",
+      "weight": 3.781511075043957
+    },
+    {
+      "source": "0781613006",
       "target": "0884319005",
+      "weight": 2.7871137182731385
+    },
+    {
+      "source": "0781613006",
+      "target": "0706016001",
+      "weight": 2.626861281372479
+    },
+    {
+      "source": "0781613006",
+      "target": "0673677002",
+      "weight": 2.1816711234360042
+    },
+    {
+      "source": "0781613006",
+      "target": "0915529003",
+      "weight": 2.099313835532307
+    },
+    {
+      "source": "0781613006",
+      "target": "0751471043",
+      "weight": 1.7625703710998408
+    },
+    {
+      "source": "0875856003",
+      "target": "0875856004",
+      "weight": 472.7861685214626
+    },
+    {
+      "source": "0875856003",
+      "target": "0875856001",
+      "weight": 282.5111149110807
+    },
+    {
+      "source": "0857030003",
+      "target": "0857030005",
+      "weight": 372.9602257457673
+    },
+    {
+      "source": "0857030003",
+      "target": "0698387022",
+      "weight": 183.47236911686937
+    },
+    {
+      "source": "0803757014",
+      "target": "0803757005",
+      "weight": 37.405662750622625
+    },
+    {
+      "source": "0803757014",
+      "target": "0803757004",
+      "weight": 25.500622380814075
+    },
+    {
+      "source": "0803757014",
+      "target": "0803757019",
+      "weight": 17.258925229170114
+    },
+    {
+      "source": "0921266006",
+      "target": "0921266001",
+      "weight": 175.44690265486724
+    },
+    {
+      "source": "0921266006",
+      "target": "0921266007",
+      "weight": 84.71735174923496
+    },
+    {
+      "source": "0640021024",
+      "target": "0640021012",
+      "weight": 156.1636821929318
+    },
+    {
+      "source": "0640021024",
+      "target": "0640021019",
+      "weight": 98.93375473031979
+    },
+    {
+      "source": "0640021024",
+      "target": "0572998001",
+      "weight": 34.13355469470577
+    },
+    {
+      "source": "0640021024",
+      "target": "0448509014",
+      "weight": 18.430229255217505
+    },
+    {
+      "source": "0884319005",
+      "target": "0884319006",
+      "weight": 36.090739431085964
+    },
+    {
+      "source": "0884319005",
+      "target": "0909588006",
+      "weight": 25.641446208112875
+    },
+    {
+      "source": "0884319005",
+      "target": "0903951002",
+      "weight": 20.74882260596546
+    },
+    {
+      "source": "0884319005",
+      "target": "0884319009",
+      "weight": 19.15128762431667
+    },
+    {
+      "source": "0884319005",
+      "target": "0874891001",
+      "weight": 11.843189964157705
+    },
+    {
+      "source": "0884319005",
+      "target": "0909721002",
+      "weight": 8.677596261537868
+    },
+    {
+      "source": "0884319005",
+      "target": "0927922001",
+      "weight": 7.099615932103242
+    },
+    {
+      "source": "0884319005",
+      "target": "0898573003",
       "weight": 6.322548380082627
     },
     {
-      "source": "0898573003",
-      "target": "0923758001",
-      "weight": 6.250453205542507
+      "source": "0884319005",
+      "target": "0915529003",
+      "weight": 4.905063437942152
     },
     {
-      "source": "0898573003",
+      "source": "0884319005",
+      "target": "0918525001",
+      "weight": 4.231132452981193
+    },
+    {
+      "source": "0884319005",
+      "target": "0896169005",
+      "weight": 3.969069069069069
+    },
+    {
+      "source": "0884319005",
+      "target": "0919273002",
+      "weight": 3.9521566868505644
+    },
+    {
+      "source": "0884319005",
+      "target": "0896169002",
+      "weight": 3.0791631721181623
+    },
+    {
+      "source": "0884319005",
+      "target": "0751471043",
+      "weight": 2.9698987937946035
+    },
+    {
+      "source": "0884319005",
+      "target": "0751471001",
+      "weight": 2.8937055281882866
+    },
+    {
+      "source": "0884319005",
+      "target": "0919365008",
+      "weight": 2.5678537428843424
+    },
+    {
+      "source": "0884319005",
+      "target": "0893059005",
+      "weight": 2.406392240594535
+    },
+    {
+      "source": "0884319005",
+      "target": "0865799006",
+      "weight": 2.402217375499818
+    },
+    {
+      "source": "0884319005",
+      "target": "0783346001",
+      "weight": 1.992342362712733
+    },
+    {
+      "source": "0884319005",
+      "target": "0448509014",
+      "weight": 1.957873266559555
+    },
+    {
+      "source": "0909869002",
+      "target": "0857163003",
+      "weight": 502.40058479532166
+    },
+    {
+      "source": "0909869002",
+      "target": "0794575017",
+      "weight": 30.840808918848847
+    },
+    {
+      "source": "0922381001",
+      "target": "0886270003",
+      "weight": 62.93809523809524
+    },
+    {
+      "source": "0922381001",
+      "target": "0714790028",
+      "weight": 20.777362939673807
+    },
+    {
+      "source": "0922381001",
+      "target": "0572998001",
+      "weight": 13.986243386243386
+    },
+    {
+      "source": "0922381001",
+      "target": "0714790020",
+      "weight": 9.01388053115096
+    },
+    {
+      "source": "0922381001",
+      "target": "0865799006",
+      "weight": 9.008315158124319
+    },
+    {
+      "source": "0922381001",
+      "target": "0448509014",
+      "weight": 4.518169076675896
+    },
+    {
+      "source": "0918522001",
+      "target": "0924243001",
+      "weight": 11.031481904085737
+    },
+    {
+      "source": "0918522001",
+      "target": "0865799006",
+      "weight": 7.5069292984369325
+    },
+    {
+      "source": "0918522001",
+      "target": "0918525001",
+      "weight": 5.876572851362767
+    },
+    {
+      "source": "0918522001",
+      "target": "0896169005",
+      "weight": 3.3075575575575575
+    },
+    {
+      "source": "0918522001",
+      "target": "0893141002",
+      "weight": 2.4204095316981364
+    },
+    {
+      "source": "0918522001",
       "target": "0915529003",
-      "weight": 4.762279057043151
+      "weight": 1.5328323243569224
+    },
+    {
+      "source": "0706016003",
+      "target": "0706016038",
+      "weight": 30.97688820752636
+    },
+    {
+      "source": "0706016003",
+      "target": "0706016001",
+      "weight": 27.165224644215044
+    },
+    {
+      "source": "0706016003",
+      "target": "0867966009",
+      "weight": 13.977916350048178
+    },
+    {
+      "source": "0706016003",
+      "target": "0554450046",
+      "weight": 13.189039236817946
+    },
+    {
+      "source": "0706016003",
+      "target": "0869459003",
+      "weight": 10.957047981356448
+    },
+    {
+      "source": "0706016003",
+      "target": "0640021019",
+      "weight": 8.165006371463596
+    },
+    {
+      "source": "0706016003",
+      "target": "0867969003",
+      "weight": 7.869847421264277
+    },
+    {
+      "source": "0706016003",
+      "target": "0621381012",
+      "weight": 7.299979856657375
+    },
+    {
+      "source": "0706016003",
+      "target": "0572998001",
+      "weight": 5.681432286629269
+    },
+    {
+      "source": "0706016003",
+      "target": "0554450001",
+      "weight": 5.3474371955217315
+    },
+    {
+      "source": "0706016003",
+      "target": "0448509014",
+      "weight": 3.698233112635384
+    },
+    {
+      "source": "0706016003",
+      "target": "0919365008",
+      "weight": 2.847670160801329
+    },
+    {
+      "source": "0706016003",
+      "target": "0714790020",
+      "weight": 2.5200287269674053
+    },
+    {
+      "source": "0706016003",
+      "target": "0865799006",
+      "weight": 1.5857050990830737
+    },
+    {
+      "source": "0924243001",
+      "target": "0928206001",
+      "weight": 12.488220739561182
+    },
+    {
+      "source": "0924243001",
+      "target": "0865799006",
+      "weight": 9.06587627734556
+    },
+    {
+      "source": "0924243001",
+      "target": "0918525001",
+      "weight": 9.048607941579188
+    },
+    {
+      "source": "0924243001",
+      "target": "0909721002",
+      "weight": 6.1645017606865515
+    },
+    {
+      "source": "0924243001",
+      "target": "0898573003",
+      "weight": 6.073723138868222
+    },
+    {
+      "source": "0924243001",
+      "target": "0893141002",
+      "weight": 4.721850789535465
+    },
+    {
+      "source": "0924243001",
+      "target": "0896169005",
+      "weight": 4.49373434936534
+    },
+    {
+      "source": "0924243001",
+      "target": "0896169002",
+      "weight": 2.4790706689258046
+    },
+    {
+      "source": "0924243001",
+      "target": "0874891001",
+      "weight": 2.1283688034628465
+    },
+    {
+      "source": "0926221003",
+      "target": "0926221002",
+      "weight": 527.9346804511279
+    },
+    {
+      "source": "0917739001",
+      "target": "0900422001",
+      "weight": 1491.8854515050168
+    },
+    {
+      "source": "0912204001",
+      "target": "0851094008",
+      "weight": 25.923916089141276
+    },
+    {
+      "source": "0912204001",
+      "target": "0754238024",
+      "weight": 22.08085332910482
+    },
+    {
+      "source": "0912204001",
+      "target": "0730683062",
+      "weight": 18.82015693269281
+    },
+    {
+      "source": "0912204001",
+      "target": "0804992017",
+      "weight": 14.288322130190828
+    },
+    {
+      "source": "0912204001",
+      "target": "0918292001",
+      "weight": 8.349893041842233
+    },
+    {
+      "source": "0912204001",
+      "target": "0918292004",
+      "weight": 7.384789021991775
+    },
+    {
+      "source": "0912204001",
+      "target": "0894956001",
+      "weight": 6.136109085352054
+    },
+    {
+      "source": "0895610004",
+      "target": "0895610003",
+      "weight": 95.80107382550335
+    },
+    {
+      "source": "0895610004",
+      "target": "0895610001",
+      "weight": 93.5585393258427
+    },
+    {
+      "source": "0895610004",
+      "target": "0895610005",
+      "weight": 89.58803347280335
+    },
+    {
+      "source": "0895610004",
+      "target": "0909721002",
+      "weight": 42.448759124087594
+    },
+    {
+      "source": "0895610004",
+      "target": "0895555001",
+      "weight": 40.79845659163987
+    },
+    {
+      "source": "0895610004",
+      "target": "0751471001",
+      "weight": 7.656744827586207
+    },
+    {
+      "source": "0448509014",
+      "target": "0919365008",
+      "weight": 13.93609066489995
+    },
+    {
+      "source": "0448509014",
+      "target": "0572998001",
+      "weight": 11.921015333075635
+    },
+    {
+      "source": "0448509014",
+      "target": "0640021012",
+      "weight": 10.388490942721951
+    },
+    {
+      "source": "0448509014",
+      "target": "0640021019",
+      "weight": 10.283405051682857
+    },
+    {
+      "source": "0448509014",
+      "target": "0714790020",
+      "weight": 9.711970007698863
+    },
+    {
+      "source": "0448509014",
+      "target": "0799365028",
+      "weight": 8.114869460082367
+    },
+    {
+      "source": "0448509014",
+      "target": "0905803002",
+      "weight": 7.741381744346358
+    },
+    {
+      "source": "0448509014",
+      "target": "0714790028",
+      "weight": 7.243364592662665
+    },
+    {
+      "source": "0448509014",
+      "target": "0867966009",
+      "weight": 5.985518379615031
+    },
+    {
+      "source": "0448509014",
+      "target": "0896169005",
+      "weight": 4.231204283968103
+    },
+    {
+      "source": "0448509014",
+      "target": "0706016038",
+      "weight": 3.7453243661918614
+    },
+    {
+      "source": "0448509014",
+      "target": "0621381012",
+      "weight": 3.6775794810152647
+    },
+    {
+      "source": "0448509014",
+      "target": "0867969003",
+      "weight": 3.6050809427882013
+    },
+    {
+      "source": "0448509014",
+      "target": "0893141002",
+      "weight": 3.031359444415138
+    },
+    {
+      "source": "0448509014",
+      "target": "0865799006",
+      "weight": 2.9876824142522866
+    },
+    {
+      "source": "0448509014",
+      "target": "0881111001",
+      "weight": 2.768019304673402
+    },
+    {
+      "source": "0448509014",
+      "target": "0706016001",
+      "weight": 2.732463744945242
+    },
+    {
+      "source": "0448509014",
+      "target": "0918525001",
+      "weight": 2.3919718641225334
+    },
+    {
+      "source": "0448509014",
+      "target": "0673677002",
+      "weight": 2.3774420426244465
+    },
+    {
+      "source": "0448509014",
+      "target": "0915529003",
+      "weight": 1.7331018742729023
+    },
+    {
+      "source": "0448509014",
+      "target": "0751471001",
+      "weight": 1.7013243557689928
     },
     {
       "source": "0919365008",
-      "target": "0448509014",
-      "weight": 13.93609066489995
+      "target": "0714790028",
+      "weight": 11.348712621578256
     },
     {
       "source": "0919365008",
@@ -2276,11 +2376,6 @@
       "source": "0919365008",
       "target": "0714790020",
       "weight": 7.76846064928195
-    },
-    {
-      "source": "0919365008",
-      "target": "0923037001",
-      "weight": 6.787753250421549
     },
     {
       "source": "0919365008",
@@ -2304,13 +2399,13 @@
     },
     {
       "source": "0919365008",
-      "target": "0706016003",
-      "weight": 2.847670160801329
+      "target": "0867969003",
+      "weight": 2.9397400503615354
     },
     {
       "source": "0919365008",
-      "target": "0884319005",
-      "weight": 2.5678537428843424
+      "target": "0706016001",
+      "weight": 2.928451964594925
     },
     {
       "source": "0919365008",
@@ -2323,54 +2418,589 @@
       "weight": 1.648893626518032
     },
     {
-      "source": "0882882002",
-      "target": "0882882001",
+      "source": "0799365028",
+      "target": "0714790028",
+      "weight": 20.333110113661043
+    },
+    {
+      "source": "0748853001",
+      "target": "0931720001",
+      "weight": 254.0862098427888
+    },
+    {
+      "source": "0767473009",
+      "target": "0865430006",
+      "weight": 96.61549707602339
+    },
+    {
+      "source": "0767473009",
+      "target": "0942187001",
+      "weight": 62.109962406015036
+    },
+    {
+      "source": "0927922001",
+      "target": "0895610003",
+      "weight": 65.29025993935883
+    },
+    {
+      "source": "0927922001",
+      "target": "0909588006",
+      "weight": 31.309306260575298
+    },
+    {
+      "source": "0927922001",
+      "target": "0903951002",
+      "weight": 22.118034250013945
+    },
+    {
+      "source": "0927922001",
+      "target": "0884319006",
+      "weight": 14.53092802935116
+    },
+    {
+      "source": "0927922001",
+      "target": "0874891001",
+      "weight": 10.821188799738005
+    },
+    {
+      "source": "0927922001",
+      "target": "0751471001",
+      "weight": 5.089690180290566
+    },
+    {
+      "source": "0927922001",
+      "target": "0783346001",
+      "weight": 4.778587646607951
+    },
+    {
+      "source": "0927922001",
+      "target": "0751471043",
+      "weight": 3.9890112732896044
+    },
+    {
+      "source": "0927922001",
+      "target": "0915529003",
+      "weight": 2.1241788048194916
+    },
+    {
+      "source": "0706016001",
+      "target": "0706016038",
+      "weight": 30.049910500332015
+    },
+    {
+      "source": "0706016001",
+      "target": "0554450001",
+      "weight": 12.651848221026162
+    },
+    {
+      "source": "0706016001",
+      "target": "0867966009",
+      "weight": 11.942398788071424
+    },
+    {
+      "source": "0706016001",
+      "target": "0881111001",
+      "weight": 9.870527057915648
+    },
+    {
+      "source": "0706016001",
+      "target": "0621381012",
+      "weight": 9.83545735583649
+    },
+    {
+      "source": "0706016001",
+      "target": "0869459002",
+      "weight": 8.861278722496495
+    },
+    {
+      "source": "0706016001",
+      "target": "0882882005",
+      "weight": 7.048744438349485
+    },
+    {
+      "source": "0706016001",
+      "target": "0867969003",
+      "weight": 4.072213589933812
+    },
+    {
+      "source": "0706016001",
+      "target": "0640021019",
+      "weight": 3.771747643311698
+    },
+    {
+      "source": "0706016001",
+      "target": "0797710001",
+      "weight": 3.2331692636135863
+    },
+    {
+      "source": "0706016001",
+      "target": "0572998001",
+      "weight": 2.6026133310828867
+    },
+    {
+      "source": "0706016001",
+      "target": "0857778011",
+      "weight": 2.490505123255434
+    },
+    {
+      "source": "0706016001",
+      "target": "0714790028",
+      "weight": 2.2438526213649372
+    },
+    {
+      "source": "0706016001",
+      "target": "0884319006",
+      "weight": 2.018911950163749
+    },
+    {
+      "source": "0706016001",
+      "target": "0794575017",
+      "weight": 1.785748063199025
+    },
+    {
+      "source": "0706016001",
+      "target": "0874891001",
+      "weight": 1.6078933165820253
+    },
+    {
+      "source": "0706016001",
+      "target": "0803757004",
+      "weight": 1.5536008149831517
+    },
+    {
+      "source": "0882613002",
+      "target": "0882613003",
+      "weight": 399.2526924087208
+    },
+    {
+      "source": "0882613002",
+      "target": "0882613001",
+      "weight": 392.3899059871351
+    },
+    {
+      "source": "0882613002",
+      "target": "0875856001",
+      "weight": 155.32100445324096
+    },
+    {
+      "source": "0857778011",
+      "target": "0909081002",
+      "weight": 59.348899865289624
+    },
+    {
+      "source": "0857778011",
+      "target": "0909081004",
+      "weight": 56.05173876166243
+    },
+    {
+      "source": "0857778011",
+      "target": "0909081001",
+      "weight": 44.51167489896722
+    },
+    {
+      "source": "0857778011",
+      "target": "0923037003",
+      "weight": 6.708319798603216
+    },
+    {
+      "source": "0857778011",
+      "target": "0893059005",
+      "weight": 5.128821768859101
+    },
+    {
+      "source": "0857778011",
+      "target": "0673677002",
+      "weight": 3.4473734545897163
+    },
+    {
+      "source": "0857778011",
+      "target": "0915529003",
+      "weight": 2.2114909107134224
+    },
+    {
+      "source": "0881691002",
+      "target": "0874114002",
+      "weight": 359.39436387607117
+    },
+    {
+      "source": "0714790020",
+      "target": "0714790028",
+      "weight": 19.298266757363415
+    },
+    {
+      "source": "0714790020",
+      "target": "0905803002",
+      "weight": 7.687200600649294
+    },
+    {
+      "source": "0714790020",
+      "target": "0572998001",
+      "weight": 6.566673147128076
+    },
+    {
+      "source": "0714790020",
+      "target": "0867969003",
+      "weight": 2.759172422239459
+    },
+    {
+      "source": "0714790020",
+      "target": "0896169005",
+      "weight": 2.2570527562102964
+    },
+    {
+      "source": "0882337002",
+      "target": "0882336002",
+      "weight": 747.9439134808853
+    },
+    {
+      "source": "0754238024",
+      "target": "0730683062",
+      "weight": 14.92151443718897
+    },
+    {
+      "source": "0754238024",
+      "target": "0918292001",
+      "weight": 10.363070468692829
+    },
+    {
+      "source": "0754238024",
+      "target": "0894956001",
+      "weight": 9.705672543657816
+    },
+    {
+      "source": "0754238024",
+      "target": "0804992017",
+      "weight": 8.399639025878285
+    },
+    {
+      "source": "0754238024",
+      "target": "0905957007",
+      "weight": 7.726799724063746
+    },
+    {
+      "source": "0754238024",
+      "target": "0918292004",
+      "weight": 5.6364244415715
+    },
+    {
+      "source": "0871274002",
+      "target": "0893420002",
+      "weight": 1213.3108935128519
+    },
+    {
+      "source": "0871274002",
+      "target": "0871274001",
+      "weight": 511.49380804953563
+    },
+    {
+      "source": "0882882001",
+      "target": "0882882015",
+      "weight": 248.93239492466296
+    },
+    {
+      "source": "0882882001",
+      "target": "0882882005",
+      "weight": 151.397479954181
+    },
+    {
+      "source": "0882882001",
+      "target": "0882882006",
+      "weight": 129.28067941870574
+    },
+    {
+      "source": "0882882001",
+      "target": "0882882002",
       "weight": 125.3314043960319
     },
     {
-      "source": "0882882002",
+      "source": "0918292001",
+      "target": "0918292003",
+      "weight": 15.5961767713748
+    },
+    {
+      "source": "0918292001",
+      "target": "0918292004",
+      "weight": 13.632372461792352
+    },
+    {
+      "source": "0918292001",
+      "target": "0868823005",
+      "weight": 13.130847053498988
+    },
+    {
+      "source": "0918292001",
+      "target": "0914453002",
+      "weight": 12.276442621935697
+    },
+    {
+      "source": "0918292001",
+      "target": "0905957007",
+      "weight": 9.777448128983526
+    },
+    {
+      "source": "0918292001",
+      "target": "0804992017",
+      "weight": 9.370174916337
+    },
+    {
+      "source": "0918292001",
+      "target": "0861803014",
+      "weight": 9.088248307861567
+    },
+    {
+      "source": "0918292001",
+      "target": "0730683062",
+      "weight": 8.546407937515225
+    },
+    {
+      "source": "0918292001",
+      "target": "0851094008",
+      "weight": 7.926415136772191
+    },
+    {
+      "source": "0918292001",
+      "target": "0894956001",
+      "weight": 6.310045125786286
+    },
+    {
+      "source": "0918292001",
+      "target": "0868283004",
+      "weight": 6.264689446881829
+    },
+    {
+      "source": "0918292001",
+      "target": "0866731003",
+      "weight": 4.5056828124751425
+    },
+    {
+      "source": "0918292004",
+      "target": "0918292003",
+      "weight": 42.653829604130806
+    },
+    {
+      "source": "0918292004",
+      "target": "0868823005",
+      "weight": 32.42003532182104
+    },
+    {
+      "source": "0918292004",
+      "target": "0914453002",
+      "weight": 13.47133887801696
+    },
+    {
+      "source": "0918292004",
+      "target": "0905957007",
+      "weight": 12.70552633197982
+    },
+    {
+      "source": "0918292004",
+      "target": "0861803014",
+      "weight": 10.146270313681027
+    },
+    {
+      "source": "0918292004",
+      "target": "0868283004",
+      "weight": 9.117687637969095
+    },
+    {
+      "source": "0918292004",
+      "target": "0730683062",
+      "weight": 8.244136726546905
+    },
+    {
+      "source": "0918292004",
+      "target": "0894956001",
+      "weight": 8.207730735261647
+    },
+    {
+      "source": "0918292004",
+      "target": "0804992017",
+      "weight": 4.972286316211878
+    },
+    {
+      "source": "0875856004",
+      "target": "0875856001",
+      "weight": 301.1415776241358
+    },
+    {
+      "source": "0804992017",
+      "target": "0851094008",
+      "weight": 23.550331209122923
+    },
+    {
+      "source": "0804992017",
+      "target": "0730683062",
+      "weight": 23.342948933593487
+    },
+    {
+      "source": "0554450001",
+      "target": "0554450043",
+      "weight": 94.37119192688499
+    },
+    {
+      "source": "0554450001",
+      "target": "0554450046",
+      "weight": 93.47241867043847
+    },
+    {
+      "source": "0554450001",
       "target": "0882882005",
-      "weight": 118.3387928022362
+      "weight": 16.6605931426476
     },
     {
-      "source": "0882882002",
-      "target": "0882882006",
-      "weight": 112.67049329393043
+      "source": "0554450001",
+      "target": "0867969003",
+      "weight": 15.673101038077377
     },
     {
-      "source": "0882882002",
-      "target": "0882882010",
-      "weight": 88.67944860117112
+      "source": "0921347003",
+      "target": "0921347004",
+      "weight": 135.51264524948735
     },
     {
-      "source": "0882882002",
-      "target": "0554450036",
-      "weight": 18.930467496753494
+      "source": "0921347003",
+      "target": "0919499007",
+      "weight": 35.339572192513366
     },
     {
-      "source": "0803757014",
+      "source": "0921347003",
       "target": "0803757005",
-      "weight": 37.405662750622625
+      "weight": 20.27354535228551
     },
     {
-      "source": "0803757014",
-      "target": "0803757004",
-      "weight": 25.500622380814075
+      "source": "0895610005",
+      "target": "0895610001",
+      "weight": 125.82588970899347
     },
     {
-      "source": "0803757014",
-      "target": "0803757019",
-      "weight": 17.258925229170114
+      "source": "0895610005",
+      "target": "0895610003",
+      "weight": 61.239645053494705
     },
     {
-      "source": "0869459001",
-      "target": "0869459002",
-      "weight": 247.3356725146199
+      "source": "0895610005",
+      "target": "0909721002",
+      "weight": 42.38417371651956
     },
     {
-      "source": "0869459001",
+      "source": "0895610005",
+      "target": "0915529003",
+      "weight": 4.040520352907369
+    },
+    {
+      "source": "0895610005",
+      "target": "0751471001",
+      "weight": 3.8138796710431393
+    },
+    {
+      "source": "0881919002",
+      "target": "0881919001",
+      "weight": 207.1320895522388
+    },
+    {
+      "source": "0881919002",
+      "target": "0881919003",
+      "weight": 145.70980325644504
+    },
+    {
+      "source": "0881919002",
+      "target": "0923037003",
+      "weight": 44.5953080342966
+    },
+    {
+      "source": "0881919002",
+      "target": "0673677002",
+      "weight": 6.178687995104205
+    },
+    {
+      "source": "0881111001",
+      "target": "0882882005",
+      "weight": 13.884236748904495
+    },
+    {
+      "source": "0881111001",
+      "target": "0714790028",
+      "weight": 5.30378389464931
+    },
+    {
+      "source": "0881111001",
+      "target": "0867969003",
+      "weight": 4.2465318187335335
+    },
+    {
+      "source": "0881111001",
+      "target": "0751471043",
+      "weight": 3.4570199573797153
+    },
+    {
+      "source": "0881111001",
+      "target": "0893059005",
+      "weight": 3.350582978284714
+    },
+    {
+      "source": "0881111001",
+      "target": "0751471001",
+      "weight": 2.659207511317275
+    },
+    {
+      "source": "0881111001",
+      "target": "0915529003",
+      "weight": 2.5042058070531246
+    },
+    {
+      "source": "0881919001",
+      "target": "0881919003",
+      "weight": 285.36704545454546
+    },
+    {
+      "source": "0881919001",
+      "target": "0923037003",
+      "weight": 35.151595744680854
+    },
+    {
+      "source": "0867966009",
       "target": "0869459003",
-      "weight": 229.3290919606709
+      "weight": 25.451242682551094
+    },
+    {
+      "source": "0867966009",
+      "target": "0706016038",
+      "weight": 22.347977127397932
+    },
+    {
+      "source": "0867966009",
+      "target": "0867969003",
+      "weight": 18.87540398946025
+    },
+    {
+      "source": "0867966009",
+      "target": "0621381012",
+      "weight": 15.560113743389119
+    },
+    {
+      "source": "0867966009",
+      "target": "0915529003",
+      "weight": 2.2562718793104235
+    },
+    {
+      "source": "0895836001",
+      "target": "0895836003",
+      "weight": 367.1388888888889
+    },
+    {
+      "source": "0794575017",
+      "target": "0857163002",
+      "weight": 161.499288023399
+    },
+    {
+      "source": "0794575017",
+      "target": "0857163003",
+      "weight": 22.39176896812365
+    },
+    {
+      "source": "0794575017",
+      "target": "0919499007",
+      "weight": 11.489713126629962
     },
     {
       "source": "0900279001",
@@ -2388,94 +3018,304 @@
       "weight": 22.07321553826113
     },
     {
-      "source": "0881919001",
-      "target": "0881919003",
-      "weight": 285.36704545454546
+      "source": "0857163003",
+      "target": "0857163002",
+      "weight": 102.4383060515873
     },
     {
-      "source": "0881919001",
-      "target": "0881919002",
-      "weight": 207.1320895522388
+      "source": "0918890002",
+      "target": "0918890001",
+      "weight": 524.484126984127
     },
     {
-      "source": "0881919001",
-      "target": "0923037003",
-      "weight": 35.151595744680854
+      "source": "0918890002",
+      "target": "0928206001",
+      "weight": 78.62298332582245
     },
     {
-      "source": "0621381012",
+      "source": "0918890002",
+      "target": "0898573003",
+      "weight": 43.45315068493151
+    },
+    {
+      "source": "0918890002",
+      "target": "0919273002",
+      "weight": 23.1201166180758
+    },
+    {
+      "source": "0918890002",
+      "target": "0915529003",
+      "weight": 6.621835641221905
+    },
+    {
+      "source": "0640021012",
       "target": "0640021019",
+      "weight": 112.92529851061137
+    },
+    {
+      "source": "0640021012",
+      "target": "0621381012",
+      "weight": 37.39319866462966
+    },
+    {
+      "source": "0875856001",
+      "target": "0882613003",
+      "weight": 170.76227390180878
+    },
+    {
+      "source": "0861803014",
+      "target": "0868283004",
+      "weight": 88.57182276884264
+    },
+    {
+      "source": "0861803014",
+      "target": "0894956001",
+      "weight": 40.126683594612494
+    },
+    {
+      "source": "0861803014",
+      "target": "0905957007",
+      "weight": 20.32884213116771
+    },
+    {
+      "source": "0909081002",
+      "target": "0909081001",
+      "weight": 171.5008650519031
+    },
+    {
+      "source": "0909081002",
+      "target": "0909081004",
+      "weight": 113.12402738873327
+    },
+    {
+      "source": "0893059005",
+      "target": "0874891001",
+      "weight": 6.1130125466716
+    },
+    {
+      "source": "0893059005",
+      "target": "0893141002",
+      "weight": 5.063697874849667
+    },
+    {
+      "source": "0893059005",
+      "target": "0923037003",
+      "weight": 4.7650755441173205
+    },
+    {
+      "source": "0893059005",
+      "target": "0896169002",
+      "weight": 3.0342118849339554
+    },
+    {
+      "source": "0893059005",
+      "target": "0751471043",
+      "weight": 2.692419198461969
+    },
+    {
+      "source": "0893059005",
+      "target": "0673677002",
+      "weight": 2.3545668537604425
+    },
+    {
+      "source": "0893059005",
+      "target": "0783346001",
+      "weight": 2.1595827800207363
+    },
+    {
+      "source": "0893059005",
+      "target": "0915529003",
+      "weight": 1.8125462521592806
+    },
+    {
+      "source": "0921266007",
+      "target": "0921266001",
+      "weight": 103.7596261682243
+    },
+    {
+      "source": "0921266007",
+      "target": "0942187001",
+      "weight": 22.623326828934307
+    },
+    {
+      "source": "0921266007",
+      "target": "0803757019",
+      "weight": 21.877435126944917
+    },
+    {
+      "source": "0797710006",
+      "target": "0797710001",
+      "weight": 144.67256756756757
+    },
+    {
+      "source": "0797710006",
+      "target": "0923037003",
+      "weight": 21.09095744680851
+    },
+    {
+      "source": "0797710006",
+      "target": "0909721002",
+      "weight": 16.079075425790755
+    },
+    {
+      "source": "0797710006",
+      "target": "0673677002",
+      "weight": 5.5196279422930905
+    },
+    {
+      "source": "0797710006",
+      "target": "0751471043",
+      "weight": 4.490486976217441
+    },
+    {
+      "source": "0640021019",
+      "target": "0621381012",
       "weight": 31.092552762468074
     },
     {
-      "source": "0621381012",
-      "target": "0867966009",
-      "weight": 15.560113743389119
-    },
-    {
-      "source": "0621381012",
-      "target": "0706016003",
-      "weight": 7.299979856657375
-    },
-    {
-      "source": "0621381012",
-      "target": "0448509014",
-      "weight": 3.6775794810152647
-    },
-    {
-      "source": "0572998001",
-      "target": "0640021024",
-      "weight": 34.13355469470577
-    },
-    {
-      "source": "0572998001",
-      "target": "0640021019",
+      "source": "0640021019",
+      "target": "0572998001",
       "weight": 19.589447161701496
     },
     {
-      "source": "0572998001",
-      "target": "0922381001",
-      "weight": 13.986243386243386
+      "source": "0898573003",
+      "target": "0918890001",
+      "weight": 50.292998477929984
     },
     {
-      "source": "0572998001",
-      "target": "0448509014",
-      "weight": 11.921015333075635
+      "source": "0898573003",
+      "target": "0928206001",
+      "weight": 27.41523702519338
     },
     {
-      "source": "0572998001",
-      "target": "0714790020",
-      "weight": 6.566673147128076
+      "source": "0898573003",
+      "target": "0919273002",
+      "weight": 19.61190081933722
     },
     {
-      "source": "0572998001",
-      "target": "0706016003",
-      "weight": 5.681432286629269
+      "source": "0898573003",
+      "target": "0918525001",
+      "weight": 17.34474502129619
     },
     {
-      "source": "0900422001",
-      "target": "0917739001",
-      "weight": 1491.8854515050168
+      "source": "0898573003",
+      "target": "0915529003",
+      "weight": 4.762279057043151
     },
     {
-      "source": "0900422001",
-      "target": "0942187001",
-      "weight": 121.03479853479854
+      "source": "0783346001",
+      "target": "0783346032",
+      "weight": 37.547990681893815
     },
     {
-      "source": "0895836003",
-      "target": "0895836001",
-      "weight": 367.1388888888889
+      "source": "0783346001",
+      "target": "0751471001",
+      "weight": 13.157703769198022
     },
     {
-      "source": "0871274002",
-      "target": "0893420002",
-      "weight": 1213.3108935128519
+      "source": "0783346001",
+      "target": "0895555001",
+      "weight": 9.080853051914145
     },
     {
-      "source": "0871274002",
-      "target": "0871274001",
-      "weight": 511.49380804953563
+      "source": "0783346001",
+      "target": "0751471043",
+      "weight": 2.452070286158621
+    },
+    {
+      "source": "0867969003",
+      "target": "0554450046",
+      "weight": 36.39041850220264
+    },
+    {
+      "source": "0867969003",
+      "target": "0869459003",
+      "weight": 33.591155540494746
+    },
+    {
+      "source": "0867969003",
+      "target": "0882882015",
+      "weight": 18.19520925110132
+    },
+    {
+      "source": "0867969003",
+      "target": "0882882002",
+      "weight": 15.448762571689802
+    },
+    {
+      "source": "0867969003",
+      "target": "0706016038",
+      "weight": 6.703498145142592
+    },
+    {
+      "source": "0882882015",
+      "target": "0882882010",
+      "weight": 219.11472148541114
+    },
+    {
+      "source": "0882882015",
+      "target": "0882882002",
+      "weight": 191.82873730043542
+    },
+    {
+      "source": "0882882015",
+      "target": "0882882005",
+      "weight": 121.59514482431149
+    },
+    {
+      "source": "0882882015",
+      "target": "0882882006",
+      "weight": 88.04187905468027
+    },
+    {
+      "source": "0881919003",
+      "target": "0923037003",
+      "weight": 50.596993874919406
+    },
+    {
+      "source": "0547780040",
+      "target": "0919499007",
+      "weight": 22.123146819703493
+    },
+    {
+      "source": "0869459002",
+      "target": "0869459003",
+      "weight": 169.44871794871796
+    },
+    {
+      "source": "0869459002",
+      "target": "0882882005",
+      "weight": 77.05384087791495
+    },
+    {
+      "source": "0869459003",
+      "target": "0882882006",
+      "weight": 42.653829604130806
+    },
+    {
+      "source": "0909081001",
+      "target": "0909081004",
+      "weight": 116.9805283224401
+    },
+    {
+      "source": "0797710001",
+      "target": "0673677002",
+      "weight": 8.950748014529335
+    },
+    {
+      "source": "0797710001",
+      "target": "0751471043",
+      "weight": 5.157991797006519
+    },
+    {
+      "source": "0797710001",
+      "target": "0915529003",
+      "weight": 2.8709535156198576
+    },
+    {
+      "source": "0797710001",
+      "target": "0751471001",
+      "weight": 2.463560111835974
     },
     {
       "source": "0918835001",
@@ -2498,304 +3338,9 @@
       "weight": 3.741150079786387
     },
     {
-      "source": "0923758001",
-      "target": "0918522001",
-      "weight": 15.491092358180966
-    },
-    {
-      "source": "0923758001",
-      "target": "0865799006",
-      "weight": 10.449230931403122
-    },
-    {
-      "source": "0923758001",
-      "target": "0918525001",
-      "weight": 9.585779075726954
-    },
-    {
-      "source": "0923758001",
-      "target": "0909721002",
-      "weight": 7.771244739737764
-    },
-    {
-      "source": "0923758001",
-      "target": "0896169005",
-      "weight": 6.165987621683824
-    },
-    {
-      "source": "0923758001",
-      "target": "0893141002",
-      "weight": 3.401471339757424
-    },
-    {
-      "source": "0923758001",
-      "target": "0884319005",
-      "weight": 2.414196211664566
-    },
-    {
-      "source": "0923758001",
-      "target": "0896169002",
-      "weight": 2.232304716265181
-    },
-    {
-      "source": "0923758001",
-      "target": "0915529003",
-      "weight": 1.5557630725924116
-    },
-    {
-      "source": "0923037001",
-      "target": "0923037003",
-      "weight": 46.70491742300253
-    },
-    {
-      "source": "0923037001",
-      "target": "0881919003",
-      "weight": 28.883304195804197
-    },
-    {
-      "source": "0923037001",
-      "target": "0881919002",
-      "weight": 25.865645548481368
-    },
-    {
-      "source": "0923037001",
-      "target": "0797710001",
-      "weight": 15.9248487998488
-    },
-    {
-      "source": "0923037001",
-      "target": "0673677002",
-      "weight": 6.3161667489685716
-    },
-    {
-      "source": "0923037001",
-      "target": "0893141002",
-      "weight": 5.167619920016086
-    },
-    {
-      "source": "0923037001",
-      "target": "0893059005",
-      "weight": 3.9755955723109007
-    },
-    {
-      "source": "0923037001",
-      "target": "0915529003",
-      "weight": 2.870040942982979
-    },
-    {
-      "source": "0923037001",
-      "target": "0751471043",
-      "weight": 2.355150512002154
-    },
-    {
-      "source": "0931720001",
-      "target": "0748853001",
-      "weight": 254.0862098427888
-    },
-    {
-      "source": "0851094008",
-      "target": "0912204001",
-      "weight": 25.923916089141276
-    },
-    {
       "source": "0851094008",
       "target": "0730683062",
       "weight": 23.624988828313523
-    },
-    {
-      "source": "0851094008",
-      "target": "0918292011",
-      "weight": 20.705679617181268
-    },
-    {
-      "source": "0851094008",
-      "target": "0918292001",
-      "weight": 7.926415136772191
-    },
-    {
-      "source": "0875856001",
-      "target": "0875856003",
-      "weight": 282.5111149110807
-    },
-    {
-      "source": "0875856001",
-      "target": "0882613002",
-      "weight": 155.32100445324096
-    },
-    {
-      "source": "0868823005",
-      "target": "0918292004",
-      "weight": 32.42003532182104
-    },
-    {
-      "source": "0868823005",
-      "target": "0918292001",
-      "weight": 13.130847053498988
-    },
-    {
-      "source": "0861803014",
-      "target": "0868283004",
-      "weight": 88.57182276884264
-    },
-    {
-      "source": "0861803014",
-      "target": "0894956001",
-      "weight": 40.126683594612494
-    },
-    {
-      "source": "0861803014",
-      "target": "0924453003",
-      "weight": 26.483851956624235
-    },
-    {
-      "source": "0861803014",
-      "target": "0918292004",
-      "weight": 10.146270313681027
-    },
-    {
-      "source": "0861803014",
-      "target": "0918292001",
-      "weight": 9.088248307861567
-    },
-    {
-      "source": "0896169005",
-      "target": "0896169002",
-      "weight": 14.680118474639023
-    },
-    {
-      "source": "0896169005",
-      "target": "0918525001",
-      "weight": 9.905995911878264
-    },
-    {
-      "source": "0896169005",
-      "target": "0865799006",
-      "weight": 7.924882659376935
-    },
-    {
-      "source": "0896169005",
-      "target": "0918836001",
-      "weight": 4.7841457528957525
-    },
-    {
-      "source": "0896169005",
-      "target": "0448509014",
-      "weight": 4.231204283968103
-    },
-    {
-      "source": "0896169005",
-      "target": "0884319005",
-      "weight": 3.969069069069069
-    },
-    {
-      "source": "0896169005",
-      "target": "0918522001",
-      "weight": 3.3075575575575575
-    },
-    {
-      "source": "0896169005",
-      "target": "0915529003",
-      "weight": 2.8709535156198576
-    },
-    {
-      "source": "0896169005",
-      "target": "0714790020",
-      "weight": 2.2570527562102964
-    },
-    {
-      "source": "0896169005",
-      "target": "0673677002",
-      "weight": 2.0342609123930306
-    },
-    {
-      "source": "0869459002",
-      "target": "0869459003",
-      "weight": 169.44871794871796
-    },
-    {
-      "source": "0869459002",
-      "target": "0882882005",
-      "weight": 77.05384087791495
-    },
-    {
-      "source": "0673677002",
-      "target": "0797710001",
-      "weight": 8.950748014529335
-    },
-    {
-      "source": "0673677002",
-      "target": "0881919002",
-      "weight": 6.178687995104205
-    },
-    {
-      "source": "0673677002",
-      "target": "0923037003",
-      "weight": 5.338131472237031
-    },
-    {
-      "source": "0673677002",
-      "target": "0857778011",
-      "weight": 3.4473734545897163
-    },
-    {
-      "source": "0673677002",
-      "target": "0893141002",
-      "weight": 3.045975338471354
-    },
-    {
-      "source": "0673677002",
-      "target": "0448509014",
-      "weight": 2.3774420426244465
-    },
-    {
-      "source": "0673677002",
-      "target": "0893059005",
-      "weight": 2.3545668537604425
-    },
-    {
-      "source": "0673677002",
-      "target": "0781613006",
-      "weight": 2.1816711234360042
-    },
-    {
-      "source": "0673677002",
-      "target": "0915529003",
-      "weight": 1.759789274432549
-    },
-    {
-      "source": "0673677002",
-      "target": "0865799006",
-      "weight": 1.7236867272948582
-    },
-    {
-      "source": "0673677002",
-      "target": "0751471043",
-      "weight": 1.7048166196725287
-    },
-    {
-      "source": "0673677002",
-      "target": "0896169002",
-      "weight": 1.6202430358981674
-    },
-    {
-      "source": "0673677002",
-      "target": "0751471001",
-      "weight": 1.5226559840808525
-    },
-    {
-      "source": "0905803002",
-      "target": "0448509014",
-      "weight": 7.741381744346358
-    },
-    {
-      "source": "0905803002",
-      "target": "0714790020",
-      "weight": 7.687200600649294
-    },
-    {
-      "source": "0884319006",
-      "target": "0884319005",
-      "weight": 36.090739431085964
     },
     {
       "source": "0884319006",
@@ -2806,11 +3351,6 @@
       "source": "0884319006",
       "target": "0903951002",
       "weight": 21.570558154716572
-    },
-    {
-      "source": "0884319006",
-      "target": "0927922001",
-      "weight": 14.53092802935116
     },
     {
       "source": "0884319006",
@@ -2838,864 +3378,14 @@
       "weight": 2.084075019902896
     },
     {
-      "source": "0918525001",
-      "target": "0865799006",
-      "weight": 12.081740329719674
-    },
-    {
-      "source": "0918525001",
-      "target": "0915529003",
-      "weight": 9.57569369686501
-    },
-    {
-      "source": "0918525001",
-      "target": "0918522001",
-      "weight": 5.876572851362767
-    },
-    {
-      "source": "0918525001",
-      "target": "0884319005",
-      "weight": 4.231132452981193
-    },
-    {
-      "source": "0918525001",
-      "target": "0448509014",
-      "weight": 2.3919718641225334
-    },
-    {
-      "source": "0915529003",
-      "target": "0918890002",
-      "weight": 6.621835641221905
-    },
-    {
-      "source": "0915529003",
-      "target": "0884319005",
-      "weight": 4.905063437942152
-    },
-    {
-      "source": "0915529003",
-      "target": "0895610005",
-      "weight": 4.040520352907369
-    },
-    {
-      "source": "0915529003",
-      "target": "0896169002",
-      "weight": 3.9685658808692925
-    },
-    {
-      "source": "0915529003",
-      "target": "0918836001",
-      "weight": 3.6213163662932293
-    },
-    {
-      "source": "0915529003",
-      "target": "0882882006",
-      "weight": 3.490425413294679
-    },
-    {
-      "source": "0915529003",
-      "target": "0797710001",
-      "weight": 2.8709535156198576
-    },
-    {
-      "source": "0915529003",
-      "target": "0751471043",
-      "weight": 2.6794186779670555
-    },
-    {
-      "source": "0915529003",
-      "target": "0909588006",
-      "weight": 2.5751583049196296
-    },
-    {
-      "source": "0915529003",
-      "target": "0923037003",
-      "weight": 2.5683094796405883
-    },
-    {
-      "source": "0915529003",
-      "target": "0881111001",
-      "weight": 2.5042058070531246
-    },
-    {
-      "source": "0915529003",
-      "target": "0893141002",
-      "weight": 2.468202848165779
-    },
-    {
-      "source": "0915529003",
-      "target": "0874891001",
-      "weight": 2.3363331395440188
-    },
-    {
-      "source": "0915529003",
-      "target": "0867966009",
-      "weight": 2.2562718793104235
-    },
-    {
-      "source": "0915529003",
-      "target": "0857778011",
-      "weight": 2.2114909107134224
-    },
-    {
-      "source": "0915529003",
-      "target": "0927922001",
-      "weight": 2.1241788048194916
-    },
-    {
-      "source": "0915529003",
-      "target": "0781613006",
-      "weight": 2.099313835532307
-    },
-    {
-      "source": "0915529003",
-      "target": "0921266001",
-      "weight": 1.9313687286897223
-    },
-    {
-      "source": "0915529003",
-      "target": "0893059005",
-      "weight": 1.8125462521592806
-    },
-    {
-      "source": "0915529003",
-      "target": "0448509014",
-      "weight": 1.7331018742729023
-    },
-    {
-      "source": "0915529003",
-      "target": "0918522001",
-      "weight": 1.5328323243569224
-    },
-    {
-      "source": "0751471001",
-      "target": "0895555001",
-      "weight": 20.809557600620913
-    },
-    {
-      "source": "0751471001",
-      "target": "0783346001",
-      "weight": 13.157703769198022
-    },
-    {
-      "source": "0751471001",
-      "target": "0895610004",
-      "weight": 7.656744827586207
-    },
-    {
-      "source": "0751471001",
-      "target": "0751471043",
-      "weight": 6.967997032061546
-    },
-    {
-      "source": "0751471001",
-      "target": "0781613006",
-      "weight": 6.0547642845244045
-    },
-    {
-      "source": "0751471001",
-      "target": "0927922001",
-      "weight": 5.089690180290566
-    },
-    {
-      "source": "0751471001",
-      "target": "0903951002",
-      "weight": 5.008336491095112
-    },
-    {
-      "source": "0751471001",
-      "target": "0909588006",
-      "weight": 4.658865900383142
-    },
-    {
-      "source": "0751471001",
-      "target": "0895610005",
-      "weight": 3.8138796710431393
-    },
-    {
-      "source": "0751471001",
-      "target": "0884319005",
-      "weight": 2.8937055281882866
-    },
-    {
-      "source": "0751471001",
-      "target": "0874891001",
-      "weight": 2.817862439747868
-    },
-    {
-      "source": "0751471001",
-      "target": "0881111001",
-      "weight": 2.659207511317275
-    },
-    {
-      "source": "0751471001",
-      "target": "0797710001",
-      "weight": 2.463560111835974
-    },
-    {
-      "source": "0751471001",
-      "target": "0909721002",
-      "weight": 2.2178035070056215
-    },
-    {
-      "source": "0751471001",
-      "target": "0923037003",
-      "weight": 2.1010149180728783
-    },
-    {
-      "source": "0751471001",
-      "target": "0448509014",
-      "weight": 1.7013243557689928
-    },
-    {
-      "source": "0882613002",
-      "target": "0882613001",
-      "weight": 392.3899059871351
-    },
-    {
-      "source": "0927922001",
-      "target": "0909588006",
-      "weight": 31.309306260575298
-    },
-    {
-      "source": "0927922001",
-      "target": "0903951002",
-      "weight": 22.118034250013945
-    },
-    {
-      "source": "0927922001",
-      "target": "0874891001",
-      "weight": 10.821188799738005
-    },
-    {
-      "source": "0927922001",
-      "target": "0884319005",
-      "weight": 7.099615932103242
-    },
-    {
-      "source": "0927922001",
-      "target": "0783346001",
-      "weight": 4.778587646607951
-    },
-    {
-      "source": "0927922001",
-      "target": "0751471043",
-      "weight": 3.9890112732896044
-    },
-    {
-      "source": "0895610004",
+      "source": "0909721002",
       "target": "0895610001",
-      "weight": 93.5585393258427
-    },
-    {
-      "source": "0895610004",
-      "target": "0895610005",
-      "weight": 89.58803347280335
-    },
-    {
-      "source": "0895610004",
-      "target": "0909721002",
-      "weight": 42.448759124087594
-    },
-    {
-      "source": "0895610004",
-      "target": "0895555001",
-      "weight": 40.79845659163987
-    },
-    {
-      "source": "0924453003",
-      "target": "0868283004",
-      "weight": 32.49868861058291
-    },
-    {
-      "source": "0924453003",
-      "target": "0894956001",
-      "weight": 23.0574930754281
-    },
-    {
-      "source": "0924453003",
-      "target": "0918292011",
-      "weight": 20.228573048144508
-    },
-    {
-      "source": "0924453003",
-      "target": "0754238024",
-      "weight": 10.65839344115407
-    },
-    {
-      "source": "0924453003",
-      "target": "0918292001",
-      "weight": 9.464610549452736
-    },
-    {
-      "source": "0924453003",
-      "target": "0918292004",
-      "weight": 8.957773455917021
-    },
-    {
-      "source": "0857030005",
-      "target": "0857030003",
-      "weight": 372.9602257457673
-    },
-    {
-      "source": "0882882005",
-      "target": "0882882001",
-      "weight": 151.397479954181
-    },
-    {
-      "source": "0882882005",
-      "target": "0882882010",
-      "weight": 137.14958492975734
-    },
-    {
-      "source": "0882882005",
-      "target": "0882882006",
-      "weight": 112.42706938866577
-    },
-    {
-      "source": "0882882005",
-      "target": "0554450001",
-      "weight": 16.6605931426476
-    },
-    {
-      "source": "0882882005",
-      "target": "0881111001",
-      "weight": 13.884236748904495
-    },
-    {
-      "source": "0866731003",
-      "target": "0918292001",
-      "weight": 4.5056828124751425
-    },
-    {
-      "source": "0882336002",
-      "target": "0882337002",
-      "weight": 747.9439134808853
-    },
-    {
-      "source": "0882336002",
-      "target": "0803757005",
-      "weight": 23.230104049493814
-    },
-    {
-      "source": "0922381001",
-      "target": "0714790020",
-      "weight": 9.01388053115096
-    },
-    {
-      "source": "0922381001",
-      "target": "0865799006",
-      "weight": 9.008315158124319
-    },
-    {
-      "source": "0922381001",
-      "target": "0448509014",
-      "weight": 4.518169076675896
-    },
-    {
-      "source": "0909588006",
-      "target": "0903951002",
-      "weight": 67.77948717948718
-    },
-    {
-      "source": "0909588006",
-      "target": "0884319005",
-      "weight": 25.641446208112875
-    },
-    {
-      "source": "0909588006",
-      "target": "0874891001",
-      "weight": 11.251030465949821
-    },
-    {
-      "source": "0909588006",
-      "target": "0781613006",
-      "weight": 5.852938808373591
-    },
-    {
-      "source": "0909588006",
-      "target": "0751471043",
-      "weight": 3.243129482823707
-    },
-    {
-      "source": "0448509014",
-      "target": "0640021024",
-      "weight": 18.430229255217505
-    },
-    {
-      "source": "0448509014",
-      "target": "0640021019",
-      "weight": 10.283405051682857
-    },
-    {
-      "source": "0448509014",
-      "target": "0714790020",
-      "weight": 9.711970007698863
-    },
-    {
-      "source": "0448509014",
-      "target": "0799365028",
-      "weight": 8.114869460082367
-    },
-    {
-      "source": "0448509014",
-      "target": "0867966009",
-      "weight": 5.985518379615031
-    },
-    {
-      "source": "0448509014",
-      "target": "0781613006",
-      "weight": 3.781511075043957
-    },
-    {
-      "source": "0448509014",
-      "target": "0706016003",
-      "weight": 3.698233112635384
-    },
-    {
-      "source": "0448509014",
-      "target": "0554450036",
-      "weight": 3.1691206175469597
-    },
-    {
-      "source": "0448509014",
-      "target": "0893141002",
-      "weight": 3.031359444415138
-    },
-    {
-      "source": "0448509014",
-      "target": "0865799006",
-      "weight": 2.9876824142522866
-    },
-    {
-      "source": "0448509014",
-      "target": "0881111001",
-      "weight": 2.768019304673402
-    },
-    {
-      "source": "0448509014",
-      "target": "0884319005",
-      "weight": 1.957873266559555
-    },
-    {
-      "source": "0918292001",
-      "target": "0918292011",
-      "weight": 21.283332247019988
-    },
-    {
-      "source": "0918292001",
-      "target": "0918292004",
-      "weight": 13.632372461792352
-    },
-    {
-      "source": "0918292001",
-      "target": "0914453002",
-      "weight": 12.276442621935697
-    },
-    {
-      "source": "0918292001",
-      "target": "0754238024",
-      "weight": 10.363070468692829
-    },
-    {
-      "source": "0918292001",
-      "target": "0730683062",
-      "weight": 8.546407937515225
-    },
-    {
-      "source": "0918292001",
-      "target": "0912204001",
-      "weight": 8.349893041842233
-    },
-    {
-      "source": "0918292001",
-      "target": "0894956001",
-      "weight": 6.310045125786286
-    },
-    {
-      "source": "0918292001",
-      "target": "0868283004",
-      "weight": 6.264689446881829
-    },
-    {
-      "source": "0874891001",
-      "target": "0903951002",
-      "weight": 17.56956752924495
-    },
-    {
-      "source": "0874891001",
-      "target": "0884319005",
-      "weight": 11.843189964157705
-    },
-    {
-      "source": "0874891001",
-      "target": "0893059005",
-      "weight": 6.1130125466716
-    },
-    {
-      "source": "0874891001",
-      "target": "0896169002",
-      "weight": 2.6073559118742504
-    },
-    {
-      "source": "0874891001",
-      "target": "0751471043",
-      "weight": 2.565130329156468
-    },
-    {
-      "source": "0882882010",
-      "target": "0882882006",
-      "weight": 180.17565953469048
-    },
-    {
-      "source": "0869459003",
-      "target": "0882882006",
-      "weight": 42.653829604130806
-    },
-    {
-      "source": "0869459003",
-      "target": "0867966009",
-      "weight": 25.451242682551094
-    },
-    {
-      "source": "0869459003",
-      "target": "0706016003",
-      "weight": 10.957047981356448
-    },
-    {
-      "source": "0918292011",
-      "target": "0918292004",
-      "weight": 23.646827290076335
-    },
-    {
-      "source": "0918292011",
-      "target": "0894956001",
-      "weight": 8.77162063310405
-    },
-    {
-      "source": "0918292011",
-      "target": "0730683062",
-      "weight": 7.551880970882662
-    },
-    {
-      "source": "0918292011",
-      "target": "0754238024",
-      "weight": 6.2772874857517875
-    },
-    {
-      "source": "0803757019",
-      "target": "0803757005",
-      "weight": 66.99384775472548
-    },
-    {
-      "source": "0803757019",
-      "target": "0803757004",
-      "weight": 52.61730776035953
-    },
-    {
-      "source": "0881691002",
-      "target": "0874114002",
-      "weight": 359.39436387607117
-    },
-    {
-      "source": "0921266001",
-      "target": "0921266006",
-      "weight": 175.44690265486724
-    },
-    {
-      "source": "0640021019",
-      "target": "0640021024",
-      "weight": 98.93375473031979
-    },
-    {
-      "source": "0640021019",
-      "target": "0706016003",
-      "weight": 8.165006371463596
-    },
-    {
-      "source": "0921347004",
-      "target": "0919499007",
-      "weight": 329.9135061919505
-    },
-    {
-      "source": "0884319005",
-      "target": "0903951002",
-      "weight": 20.74882260596546
-    },
-    {
-      "source": "0884319005",
-      "target": "0884319009",
-      "weight": 19.15128762431667
-    },
-    {
-      "source": "0884319005",
-      "target": "0909721002",
-      "weight": 8.677596261537868
-    },
-    {
-      "source": "0884319005",
-      "target": "0896169002",
-      "weight": 3.0791631721181623
-    },
-    {
-      "source": "0884319005",
-      "target": "0751471043",
-      "weight": 2.9698987937946035
-    },
-    {
-      "source": "0884319005",
-      "target": "0781613006",
-      "weight": 2.7871137182731385
-    },
-    {
-      "source": "0884319005",
-      "target": "0893059005",
-      "weight": 2.406392240594535
-    },
-    {
-      "source": "0884319005",
-      "target": "0865799006",
-      "weight": 2.402217375499818
-    },
-    {
-      "source": "0884319005",
-      "target": "0783346001",
-      "weight": 1.992342362712733
-    },
-    {
-      "source": "0554450001",
-      "target": "0554450046",
-      "weight": 93.47241867043847
-    },
-    {
-      "source": "0554450001",
-      "target": "0554450036",
-      "weight": 71.52342967090232
-    },
-    {
-      "source": "0554450001",
-      "target": "0706016003",
-      "weight": 5.3474371955217315
-    },
-    {
-      "source": "0895610005",
-      "target": "0895610001",
-      "weight": 125.82588970899347
-    },
-    {
-      "source": "0895610005",
-      "target": "0909721002",
-      "weight": 42.38417371651956
-    },
-    {
-      "source": "0803757005",
-      "target": "0803757004",
-      "weight": 57.779604254013705
-    },
-    {
-      "source": "0942187001",
-      "target": "0865430006",
-      "weight": 76.20709537376204
-    },
-    {
-      "source": "0942187001",
-      "target": "0767473009",
-      "weight": 62.109962406015036
-    },
-    {
-      "source": "0942187001",
-      "target": "0905492001",
-      "weight": 49.40195858563205
-    },
-    {
-      "source": "0909081003",
-      "target": "0909081002",
-      "weight": 165.32907819616395
-    },
-    {
-      "source": "0909081003",
-      "target": "0909081004",
-      "weight": 140.12934690415605
-    },
-    {
-      "source": "0909081003",
-      "target": "0857778011",
-      "weight": 69.31589068236117
-    },
-    {
-      "source": "0895610001",
-      "target": "0909721002",
       "weight": 97.55843516771918
     },
     {
-      "source": "0783346001",
-      "target": "0895555001",
-      "weight": 9.080853051914145
-    },
-    {
-      "source": "0783346001",
-      "target": "0781613006",
-      "weight": 3.86557730156764
-    },
-    {
-      "source": "0783346001",
-      "target": "0751471043",
-      "weight": 2.452070286158621
-    },
-    {
-      "source": "0783346001",
-      "target": "0893059005",
-      "weight": 2.1595827800207363
-    },
-    {
-      "source": "0919499007",
-      "target": "0547780040",
-      "weight": 22.123146819703493
-    },
-    {
-      "source": "0918836001",
-      "target": "0896169002",
-      "weight": 146.52967745317304
-    },
-    {
-      "source": "0918836001",
-      "target": "0751471043",
-      "weight": 2.2051498543924932
-    },
-    {
-      "source": "0751471043",
-      "target": "0797710001",
-      "weight": 5.157991797006519
-    },
-    {
-      "source": "0751471043",
-      "target": "0895555001",
-      "weight": 3.609716218824309
-    },
-    {
-      "source": "0751471043",
-      "target": "0881111001",
-      "weight": 3.4570199573797153
-    },
-    {
-      "source": "0751471043",
-      "target": "0909721002",
-      "weight": 3.277727719866745
-    },
-    {
-      "source": "0751471043",
-      "target": "0923037003",
-      "weight": 2.9856961278041494
-    },
-    {
-      "source": "0751471043",
-      "target": "0893059005",
-      "weight": 2.692419198461969
-    },
-    {
-      "source": "0751471043",
-      "target": "0893141002",
-      "weight": 1.912880501051093
-    },
-    {
-      "source": "0751471043",
-      "target": "0781613006",
-      "weight": 1.7625703710998408
-    },
-    {
-      "source": "0881919002",
-      "target": "0881919003",
-      "weight": 145.70980325644504
-    },
-    {
-      "source": "0881919002",
-      "target": "0923037003",
-      "weight": 44.5953080342966
-    },
-    {
-      "source": "0554450036",
-      "target": "0554450046",
-      "weight": 85.99840948525159
-    },
-    {
-      "source": "0554450036",
-      "target": "0867966009",
-      "weight": 15.940515153808317
-    },
-    {
-      "source": "0554450036",
-      "target": "0706016003",
-      "weight": 8.410014897970957
-    },
-    {
-      "source": "0868283004",
-      "target": "0894956001",
-      "weight": 32.468550723154245
-    },
-    {
-      "source": "0868283004",
-      "target": "0730683062",
-      "weight": 14.413590038466115
-    },
-    {
-      "source": "0868283004",
-      "target": "0918292004",
-      "weight": 9.117687637969095
-    },
-    {
-      "source": "0896169002",
-      "target": "0893059005",
-      "weight": 3.0342118849339554
-    },
-    {
-      "source": "0893059005",
-      "target": "0857778011",
-      "weight": 5.128821768859101
-    },
-    {
-      "source": "0893059005",
-      "target": "0893141002",
-      "weight": 5.063697874849667
-    },
-    {
-      "source": "0893059005",
-      "target": "0923037003",
-      "weight": 4.7650755441173205
-    },
-    {
-      "source": "0893059005",
-      "target": "0881111001",
-      "weight": 3.350582978284714
-    },
-    {
-      "source": "0857163002",
-      "target": "0857163003",
-      "weight": 102.4383060515873
-    },
-    {
-      "source": "0881919003",
-      "target": "0923037003",
-      "weight": 50.596993874919406
-    },
-    {
-      "source": "0767473009",
-      "target": "0865430006",
-      "weight": 96.61549707602339
-    },
-    {
-      "source": "0918890001",
-      "target": "0918890002",
-      "weight": 524.484126984127
-    },
-    {
-      "source": "0909081004",
-      "target": "0909081002",
-      "weight": 113.12402738873327
-    },
-    {
-      "source": "0909081004",
-      "target": "0857778011",
-      "weight": 56.05173876166243
+      "source": "0909721002",
+      "target": "0895610003",
+      "weight": 58.27315926125508
     },
     {
       "source": "0909721002",
@@ -3708,99 +3398,229 @@
       "weight": 9.760461121087038
     },
     {
-      "source": "0905492001",
-      "target": "0865430006",
-      "weight": 83.2514487276392
+      "source": "0909721002",
+      "target": "0751471043",
+      "weight": 3.277727719866745
     },
     {
-      "source": "0918522001",
-      "target": "0865799006",
-      "weight": 7.5069292984369325
+      "source": "0909721002",
+      "target": "0751471001",
+      "weight": 2.2178035070056215
     },
     {
-      "source": "0918522001",
+      "source": "0673677002",
+      "target": "0923037003",
+      "weight": 5.338131472237031
+    },
+    {
+      "source": "0673677002",
       "target": "0893141002",
-      "weight": 2.4204095316981364
+      "weight": 3.045975338471354
     },
     {
-      "source": "0714790020",
-      "target": "0706016003",
-      "weight": 2.5200287269674053
+      "source": "0673677002",
+      "target": "0919273002",
+      "weight": 2.835829968924665
     },
     {
-      "source": "0912204001",
-      "target": "0754238024",
-      "weight": 22.08085332910482
+      "source": "0673677002",
+      "target": "0896169005",
+      "weight": 2.0342609123930306
     },
     {
-      "source": "0912204001",
-      "target": "0730683062",
-      "weight": 18.82015693269281
+      "source": "0673677002",
+      "target": "0915529003",
+      "weight": 1.759789274432549
     },
     {
-      "source": "0912204001",
-      "target": "0918292004",
-      "weight": 7.384789021991775
-    },
-    {
-      "source": "0912204001",
-      "target": "0894956001",
-      "weight": 6.136109085352054
-    },
-    {
-      "source": "0706016003",
-      "target": "0867966009",
-      "weight": 13.977916350048178
-    },
-    {
-      "source": "0706016003",
-      "target": "0554450046",
-      "weight": 13.189039236817946
-    },
-    {
-      "source": "0706016003",
+      "source": "0673677002",
       "target": "0865799006",
-      "weight": 1.5857050990830737
+      "weight": 1.7236867272948582
     },
     {
-      "source": "0909869002",
-      "target": "0857163003",
-      "weight": 502.40058479532166
+      "source": "0673677002",
+      "target": "0751471043",
+      "weight": 1.7048166196725287
     },
     {
-      "source": "0730683062",
-      "target": "0754238024",
-      "weight": 14.92151443718897
+      "source": "0673677002",
+      "target": "0896169002",
+      "weight": 1.6202430358981674
     },
     {
-      "source": "0730683062",
-      "target": "0918292004",
-      "weight": 8.244136726546905
+      "source": "0673677002",
+      "target": "0751471001",
+      "weight": 1.5226559840808525
     },
     {
-      "source": "0730683062",
-      "target": "0894956001",
-      "weight": 6.116206535923516
+      "source": "0900422001",
+      "target": "0942187001",
+      "weight": 121.03479853479854
     },
     {
-      "source": "0914453002",
-      "target": "0918292004",
-      "weight": 13.47133887801696
+      "source": "0921266001",
+      "target": "0915529003",
+      "weight": 1.9313687286897223
     },
     {
-      "source": "0894956001",
-      "target": "0754238024",
-      "weight": 9.705672543657816
+      "source": "0942187001",
+      "target": "0865430006",
+      "weight": 76.20709537376204
     },
     {
-      "source": "0894956001",
-      "target": "0918292004",
-      "weight": 8.207730735261647
+      "source": "0918836001",
+      "target": "0896169002",
+      "weight": 146.52967745317304
     },
     {
-      "source": "0923037003",
-      "target": "0857778011",
-      "weight": 6.708319798603216
+      "source": "0918836001",
+      "target": "0896169005",
+      "weight": 4.7841457528957525
+    },
+    {
+      "source": "0918836001",
+      "target": "0915529003",
+      "weight": 3.6213163662932293
+    },
+    {
+      "source": "0918836001",
+      "target": "0751471043",
+      "weight": 2.2051498543924932
+    },
+    {
+      "source": "0857030005",
+      "target": "0698387022",
+      "weight": 196.57753833950292
+    },
+    {
+      "source": "0882336002",
+      "target": "0803757005",
+      "weight": 23.230104049493814
+    },
+    {
+      "source": "0909588006",
+      "target": "0903951002",
+      "weight": 67.77948717948718
+    },
+    {
+      "source": "0909588006",
+      "target": "0874891001",
+      "weight": 11.251030465949821
+    },
+    {
+      "source": "0909588006",
+      "target": "0751471001",
+      "weight": 4.658865900383142
+    },
+    {
+      "source": "0909588006",
+      "target": "0751471043",
+      "weight": 3.243129482823707
+    },
+    {
+      "source": "0909588006",
+      "target": "0915529003",
+      "weight": 2.5751583049196296
+    },
+    {
+      "source": "0918890001",
+      "target": "0928206001",
+      "weight": 98.44418156326674
+    },
+    {
+      "source": "0803757019",
+      "target": "0803757005",
+      "weight": 66.99384775472548
+    },
+    {
+      "source": "0803757019",
+      "target": "0803757004",
+      "weight": 52.61730776035953
+    },
+    {
+      "source": "0882882006",
+      "target": "0882882010",
+      "weight": 180.17565953469048
+    },
+    {
+      "source": "0882882006",
+      "target": "0882882002",
+      "weight": 112.67049329393043
+    },
+    {
+      "source": "0882882006",
+      "target": "0882882005",
+      "weight": 112.42706938866577
+    },
+    {
+      "source": "0882882006",
+      "target": "0915529003",
+      "weight": 3.490425413294679
+    },
+    {
+      "source": "0803757005",
+      "target": "0803757004",
+      "weight": 57.779604254013705
+    },
+    {
+      "source": "0714790028",
+      "target": "0572998001",
+      "weight": 11.187810813670511
+    },
+    {
+      "source": "0714790028",
+      "target": "0893141002",
+      "weight": 4.065857763754059
+    },
+    {
+      "source": "0714790028",
+      "target": "0751471043",
+      "weight": 2.7795311407123084
+    },
+    {
+      "source": "0874891001",
+      "target": "0903951002",
+      "weight": 17.56956752924495
+    },
+    {
+      "source": "0874891001",
+      "target": "0751471001",
+      "weight": 2.817862439747868
+    },
+    {
+      "source": "0874891001",
+      "target": "0896169002",
+      "weight": 2.6073559118742504
+    },
+    {
+      "source": "0874891001",
+      "target": "0751471043",
+      "weight": 2.565130329156468
+    },
+    {
+      "source": "0874891001",
+      "target": "0915529003",
+      "weight": 2.3363331395440188
+    },
+    {
+      "source": "0896169005",
+      "target": "0896169002",
+      "weight": 14.680118474639023
+    },
+    {
+      "source": "0896169005",
+      "target": "0918525001",
+      "weight": 9.905995911878264
+    },
+    {
+      "source": "0896169005",
+      "target": "0865799006",
+      "weight": 7.924882659376935
+    },
+    {
+      "source": "0896169005",
+      "target": "0915529003",
+      "weight": 2.8709535156198576
     },
     {
       "source": "0923037003",
@@ -3808,107 +3628,314 @@
       "weight": 4.117865316203295
     },
     {
-      "source": "0865799006",
+      "source": "0923037003",
+      "target": "0751471043",
+      "weight": 2.9856961278041494
+    },
+    {
+      "source": "0923037003",
+      "target": "0915529003",
+      "weight": 2.5683094796405883
+    },
+    {
+      "source": "0923037003",
+      "target": "0751471001",
+      "weight": 2.1010149180728783
+    },
+    {
+      "source": "0896169002",
+      "target": "0915529003",
+      "weight": 3.9685658808692925
+    },
+    {
+      "source": "0919273002",
+      "target": "0884319009",
+      "weight": 23.245568894650106
+    },
+    {
+      "source": "0919273002",
+      "target": "0928206001",
+      "weight": 9.818054860866939
+    },
+    {
+      "source": "0919273002",
+      "target": "0918525001",
+      "weight": 5.230795614949276
+    },
+    {
+      "source": "0919273002",
+      "target": "0915529003",
+      "weight": 2.57717962227043
+    },
+    {
+      "source": "0915529003",
+      "target": "0918525001",
+      "weight": 9.57569369686501
+    },
+    {
+      "source": "0915529003",
+      "target": "0751471043",
+      "weight": 2.6794186779670555
+    },
+    {
+      "source": "0915529003",
       "target": "0893141002",
+      "weight": 2.468202848165779
+    },
+    {
+      "source": "0919499007",
+      "target": "0921347004",
+      "weight": 329.9135061919505
+    },
+    {
+      "source": "0882882010",
+      "target": "0882882005",
+      "weight": 137.14958492975734
+    },
+    {
+      "source": "0882882010",
+      "target": "0882882002",
+      "weight": 88.67944860117112
+    },
+    {
+      "source": "0918292003",
+      "target": "0868823005",
+      "weight": 866.2008473454257
+    },
+    {
+      "source": "0882613003",
+      "target": "0882613001",
+      "weight": 739.9698535745048
+    },
+    {
+      "source": "0895610003",
+      "target": "0895610001",
+      "weight": 149.50229997737728
+    },
+    {
+      "source": "0886270006",
+      "target": "0886270003",
+      "weight": 720.9272727272727
+    },
+    {
+      "source": "0918525001",
+      "target": "0865799006",
+      "weight": 12.081740329719674
+    },
+    {
+      "source": "0918525001",
+      "target": "0928206001",
+      "weight": 10.51109402751637
+    },
+    {
+      "source": "0905957007",
+      "target": "0914453002",
+      "weight": 98.24678772432834
+    },
+    {
+      "source": "0905957007",
+      "target": "0905957002",
+      "weight": 51.22868217054263
+    },
+    {
+      "source": "0905957007",
+      "target": "0869331003",
+      "weight": 30.962390322855438
+    },
+    {
+      "source": "0905957007",
+      "target": "0730683062",
+      "weight": 11.247814448622135
+    },
+    {
+      "source": "0868283004",
+      "target": "0894956001",
+      "weight": 32.468550723154245
+    },
+    {
+      "source": "0868283004",
+      "target": "0730683062",
+      "weight": 14.413590038466115
+    },
+    {
+      "source": "0869331003",
+      "target": "0905957002",
+      "weight": 718.9467032967033
+    },
+    {
+      "source": "0893141002",
+      "target": "0865799006",
       "weight": 5.640989683681682
     },
     {
-      "source": "0918292004",
-      "target": "0754238024",
-      "weight": 5.6364244415715
+      "source": "0893141002",
+      "target": "0751471043",
+      "weight": 1.912880501051093
     },
     {
-      "source": "0882882006",
-      "target": "0882882001",
-      "weight": 129.28067941870574
+      "source": "0751471043",
+      "target": "0751471001",
+      "weight": 6.967997032061546
     },
     {
-      "source": "0909081002",
-      "target": "0857778011",
-      "weight": 59.348899865289624
+      "source": "0751471043",
+      "target": "0783346032",
+      "weight": 4.7975288207451285
+    },
+    {
+      "source": "0751471043",
+      "target": "0895555001",
+      "weight": 3.609716218824309
+    },
+    {
+      "source": "0882882005",
+      "target": "0882882002",
+      "weight": 118.3387928022362
+    },
+    {
+      "source": "0751471001",
+      "target": "0895555001",
+      "weight": 20.809557600620913
+    },
+    {
+      "source": "0751471001",
+      "target": "0783346032",
+      "weight": 5.453521956970233
+    },
+    {
+      "source": "0751471001",
+      "target": "0903951002",
+      "weight": 5.008336491095112
+    },
+    {
+      "source": "0554450046",
+      "target": "0554450043",
+      "weight": 342.9319291819292
+    },
+    {
+      "source": "0889652001",
+      "target": "0698387022",
+      "weight": 53.8326816552623
+    },
+    {
+      "source": "0706016038",
+      "target": "0621381012",
+      "weight": 11.234360125118998
+    },
+    {
+      "source": "0894956001",
+      "target": "0730683062",
+      "weight": 6.116206535923516
     }
   ],
   "communities": [
     {
       "id": 30,
-      "label": "Black \u00b7 Knitwear",
+      "label": "Knitwear \u00b7 13 groups \u00b7 151 SKUs \u00b7 Light Purple +2.8\u00d7",
       "colour": "#1f77b4",
       "size": 151,
       "n_garment_groups": 13,
       "modal_colour": "Black",
-      "modal_garment": "Knitwear"
+      "modal_garment": "Knitwear",
+      "distinctive_colour": "Light Purple",
+      "distinctive_colour_share": 0.02,
+      "distinctive_colour_lift": 2.75
     },
     {
       "id": 11,
-      "label": "Black \u00b7 Jersey Fancy",
+      "label": "Jersey Fancy \u00b7 3 groups \u00b7 151 SKUs \u00b7 Greyish Beige +5.5\u00d7",
       "colour": "#aec7e8",
       "size": 151,
       "n_garment_groups": 3,
       "modal_colour": "Black",
-      "modal_garment": "Jersey Fancy"
+      "modal_garment": "Jersey Fancy",
+      "distinctive_colour": "Greyish Beige",
+      "distinctive_colour_share": 0.04,
+      "distinctive_colour_lift": 5.5
     },
     {
       "id": 53,
-      "label": "Black \u00b7 Blouses",
+      "label": "Blouses \u00b7 7 groups \u00b7 142 SKUs \u00b7 Dark Orange +4.6\u00d7",
       "colour": "#ff7f0e",
       "size": 142,
       "n_garment_groups": 7,
       "modal_colour": "Black",
-      "modal_garment": "Blouses"
+      "modal_garment": "Blouses",
+      "distinctive_colour": "Dark Orange",
+      "distinctive_colour_share": 0.028,
+      "distinctive_colour_lift": 4.55
     },
     {
       "id": 5,
-      "label": "Black \u00b7 Jersey Basic",
+      "label": "Jersey Basic \u00b7 3 groups \u00b7 113 SKUs \u00b7 Light Purple +4.9\u00d7",
       "colour": "#ffbb78",
       "size": 113,
       "n_garment_groups": 3,
       "modal_colour": "Black",
-      "modal_garment": "Jersey Basic"
+      "modal_garment": "Jersey Basic",
+      "distinctive_colour": "Light Purple",
+      "distinctive_colour_share": 0.035,
+      "distinctive_colour_lift": 4.9
     },
     {
       "id": 29,
-      "label": "Black \u00b7 Knitwear",
+      "label": "Knitwear \u00b7 6 groups \u00b7 100 SKUs \u00b7 Off White +2.6\u00d7",
       "colour": "#2ca02c",
       "size": 100,
       "n_garment_groups": 6,
       "modal_colour": "Black",
-      "modal_garment": "Knitwear"
+      "modal_garment": "Knitwear",
+      "distinctive_colour": "Off White",
+      "distinctive_colour_share": 0.08,
+      "distinctive_colour_lift": 2.63
     },
     {
       "id": 45,
-      "label": "Black \u00b7 Trousers Denim",
+      "label": "Trousers Denim \u00b7 4 groups \u00b7 92 SKUs \u00b7 Dark Blue +6.3\u00d7",
       "colour": "#98df8a",
       "size": 92,
       "n_garment_groups": 4,
       "modal_colour": "Black",
-      "modal_garment": "Trousers Denim"
+      "modal_garment": "Trousers Denim",
+      "distinctive_colour": "Dark Blue",
+      "distinctive_colour_share": 0.196,
+      "distinctive_colour_lift": 6.32
     },
     {
       "id": 17,
-      "label": "Blue \u00b7 Trousers Denim",
+      "label": "Trousers Denim \u00b7 4 groups \u00b7 70 SKUs \u00b7 Light Blue +10.2\u00d7",
       "colour": "#d62728",
       "size": 70,
       "n_garment_groups": 4,
       "modal_colour": "Blue",
-      "modal_garment": "Trousers Denim"
+      "modal_garment": "Trousers Denim",
+      "distinctive_colour": "Light Blue",
+      "distinctive_colour_share": 0.2,
+      "distinctive_colour_lift": 10.21
     },
     {
       "id": 2,
-      "label": "Black \u00b7 Blouses",
+      "label": "Blouses \u00b7 6 groups \u00b7 66 SKUs \u00b7 Greenish Khaki +3.0\u00d7",
       "colour": "#ff9896",
       "size": 66,
       "n_garment_groups": 6,
       "modal_colour": "Black",
-      "modal_garment": "Blouses"
+      "modal_garment": "Blouses",
+      "distinctive_colour": "Greenish Khaki",
+      "distinctive_colour_share": 0.061,
+      "distinctive_colour_lift": 3.01
     }
   ],
   "meta": {
-    "generated_at": "2026-05-24T20:21:37",
+    "generated_at": "2026-05-24T23:31:18",
     "source": "H&M Kaggle dataset (proxy for Zalando \u2014 see data/methodology.md)",
     "window_days": 30,
-    "apriori_min_support": 0.001,
-    "rule_min_lift": 1.5,
+    "edge_method": "sparse_cooccurrence_then_louvain",
+    "edge_min_cooccurrence": 10,
+    "edge_min_lift": 1.5,
     "louvain_resolution": 1.0,
+    "distinctive_colour_method": "argmax over P(c|comm)/P(c|graph), min 3 SKUs per colour",
+    "distinctive_colour_label_threshold": 1.2,
     "n_top_communities_shown": 8,
     "max_nodes_per_community": 20,
     "total_nodes": 150,

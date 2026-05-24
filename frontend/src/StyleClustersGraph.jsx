@@ -102,23 +102,25 @@ export default function StyleClustersGraph() {
           d3VelocityDecay={0.3}
           linkColor={(l) => (isLinkActive(l) ? "rgba(255,255,255,0.25)" : "rgba(255,255,255,0.05)")}
           linkWidth={(l) => Math.min(2.2, 0.3 + Math.log(1 + (l.weight ?? 1)) * 0.35)}
-          nodeRelSize={4}
-          nodeVal={(n) => Math.max(1, Math.log(1 + (n.size ?? 1)) * 2)}
+          nodeRelSize={5}
+          nodeVal={(n) => Math.max(0.5, Math.log(1 + (n.size ?? 1)))}
+          nodeColor={(n) =>
+            isDim(n) ? "rgba(120,120,130,0.18)" : (n.colour || "#7cb7ff")
+          }
           nodeLabel={(n) =>
             `${n.label}\nCommunity ${n.community} · ${n.garment_group ?? ""}`
           }
-          nodeCanvasObjectMode={() => "after"}
+          nodeCanvasObjectMode={(n) => (n.id === focusId ? "after" : undefined)}
           nodeCanvasObject={(node, ctx, globalScale) => {
-            const r = Math.max(2.5, Math.sqrt(Math.max(1, Math.log(1 + (node.size ?? 1)) * 2)) * 2);
+            // Only draw highlight ring on the focused node — community colours
+            // come from the library default via nodeColor above.
+            if (node.id !== focusId) return;
+            const baseRadius = Math.sqrt(Math.max(1, Math.log(1 + (node.size ?? 1)))) * 5;
             ctx.beginPath();
-            ctx.arc(node.x, node.y, r, 0, 2 * Math.PI, false);
-            ctx.fillStyle = isDim(node) ? "rgba(120,120,130,0.18)" : node.colour || "#7cb7ff";
-            ctx.fill();
-            if (node.id === focusId) {
-              ctx.lineWidth = 2 / globalScale;
-              ctx.strokeStyle = "#fff";
-              ctx.stroke();
-            }
+            ctx.arc(node.x, node.y, baseRadius + 2, 0, 2 * Math.PI, false);
+            ctx.lineWidth = 2 / globalScale;
+            ctx.strokeStyle = "#fff";
+            ctx.stroke();
           }}
           onNodeHover={(n) => setHoverNode(n)}
           onNodeClick={(n) => {
@@ -131,11 +133,10 @@ export default function StyleClustersGraph() {
       </div>
       <div className="graph-legend">
         {data.communities.map((c) => (
-          <span key={c.id} className="legend-pill">
+          <span key={c.id} className="legend-pill" title={`Modal colour: ${c.modal_colour} (uninformative here — H&M catalog is Black-dominated)`}>
             <span className="legend-swatch" style={{ background: c.colour }} />
             <span className="legend-label">
-              <strong>#{c.id}</strong> {c.modal_colour} · {c.modal_garment}{" "}
-              <span className="muted">({c.size} SKUs, {c.n_garment_groups} groups)</span>
+              <strong>#{c.id}</strong> {c.label}
             </span>
           </span>
         ))}
