@@ -5,6 +5,10 @@ WORKDIR /app/frontend
 COPY frontend/package*.json ./
 RUN npm install
 COPY frontend/ ./
+# Copy case-study content + viz preview into frontend public/ so they ship as static assets
+# accessible at /case-study.md and /style-clusters-preview.png on the deployed site.
+COPY writing/case-study.md ./public/case-study.md
+COPY design/graph/style-clusters-preview.png ./public/style-clusters-preview.png
 RUN npm run build
 
 FROM node:20-alpine AS backend-deps

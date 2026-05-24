@@ -1,61 +1,93 @@
 import { useEffect, useState } from "react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
-function useFetch(url) {
-  const [data, setData] = useState(null);
-  const [error, setError] = useState(null);
-  const [loading, setLoading] = useState(true);
+const GITHUB_TREE = "https://github.com/elenuvarova/zalando-project/tree/main";
+const GITHUB_RAW = "https://raw.githubusercontent.com/elenuvarova/zalando-project/main";
 
-  useEffect(() => {
-    let active = true;
-    fetch(url)
-      .then((r) => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json();
-      })
-      .then((json) => {
-        if (active) {
-          setData(json);
-          setLoading(false);
-        }
-      })
-      .catch((err) => {
-        if (active) {
-          setError(err.message);
-          setLoading(false);
-        }
-      });
-    return () => {
-      active = false;
-    };
-  }, [url]);
-
-  return { data, error, loading };
+// Rewrite relative `../path` links from the source markdown to point at GitHub
+// (since the deployed site doesn't serve the research/data/design source tree).
+function rewriteLink(href) {
+  if (!href) return href;
+  if (href.startsWith("../")) return `${GITHUB_TREE}/${href.slice(3)}`;
+  if (href.startsWith("./")) return `${GITHUB_TREE}/${href.slice(2)}`;
+  return href;
 }
 
-function Card({ title, state }) {
-  return (
-    <section className="card">
-      <h2>{title}</h2>
-      {state.loading && <p className="muted">Loading…</p>}
-      {state.error && <p className="error">Error: {state.error}</p>}
-      {state.data && <pre>{JSON.stringify(state.data, null, 2)}</pre>}
-    </section>
-  );
+function rewriteImage(src) {
+  if (!src) return src;
+  // The preview PNG is shipped locally; everything else falls back to raw.githubusercontent
+  if (src.endsWith("style-clusters-preview.png")) return "/style-clusters-preview.png";
+  if (src.startsWith("../")) return `${GITHUB_RAW}/${src.slice(3)}`;
+  if (src.startsWith("./")) return `${GITHUB_RAW}/${src.slice(2)}`;
+  return src;
 }
 
 export default function App() {
-  const hello = useFetch("/api/hello");
-  const health = useFetch("/api/health");
+  const [markdown, setMarkdown] = useState(null);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    fetch("/case-study.md")
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.text();
+      })
+      .then(setMarkdown)
+      .catch((err) => setError(err.message));
+  }, []);
+
+  if (error) {
+    return (
+      <main className="prose">
+        <h1>Case study failed to load</h1>
+        <p className="error">Error: {error}</p>
+        <p>
+          The canonical version lives in the repo at{" "}
+          <a href={`${GITHUB_TREE}/writing/case-study.md`}>writing/case-study.md</a>.
+        </p>
+      </main>
+    );
+  }
+
+  if (!markdown) {
+    return (
+      <main className="prose">
+        <p className="muted">Loading case study…</p>
+      </main>
+    );
+  }
 
   return (
-    <main>
-      <h1>AI Workshop Template</h1>
-      <p className="muted">
-        React + Vite frontend, Express + Sequelize backend. SQLite locally,
-        Postgres on Render.
-      </p>
-      <Card title="GET /api/hello" state={hello} />
-      <Card title="GET /api/health" state={health} />
+    <main className="prose">
+      <ReactMarkdown
+        remarkPlugins={[remarkGfm]}
+        urlTransform={rewriteLink}
+        components={{
+          img: ({ src, alt, ...rest }) => (
+            <img src={rewriteImage(src)} alt={alt} {...rest} />
+          ),
+          a: ({ href, children, ...rest }) => (
+            <a
+              href={rewriteLink(href)}
+              target={href && href.startsWith("http") ? "_blank" : undefined}
+              rel={href && href.startsWith("http") ? "noopener noreferrer" : undefined}
+              {...rest}
+            >
+              {children}
+            </a>
+          ),
+        }}
+      >
+        {markdown}
+      </ReactMarkdown>
+      <footer className="footer">
+        <p className="muted">
+          Source repo: <a href={GITHUB_TREE} target="_blank" rel="noopener noreferrer">github.com/elenuvarova/zalando-project</a>
+          {" · "}
+          <a href={`${GITHUB_TREE}/writing/case-study.md`} target="_blank" rel="noopener noreferrer">view raw markdown</a>
+        </p>
+      </footer>
     </main>
   );
 }
