@@ -1,0 +1,7 @@
+raw/
+interim/
+*.csv.zip
+*.csv.gz
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
