@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import StyleClustersGraph from "./StyleClustersGraph.jsx";
 
 const GITHUB_TREE = "https://github.com/elenuvarova/zalando-project/tree/main";
 const GITHUB_RAW = "https://raw.githubusercontent.com/elenuvarova/zalando-project/main";
@@ -64,9 +65,14 @@ export default function App() {
         remarkPlugins={[remarkGfm]}
         urlTransform={rewriteLink}
         components={{
-          img: ({ src, alt, ...rest }) => (
-            <img src={rewriteImage(src)} alt={alt} {...rest} />
-          ),
+          img: ({ src, alt, ...rest }) => {
+            // Swap the static force-graph PNG for the interactive React component.
+            // GitHub raw markdown still renders the PNG; the deployed app gets the live version.
+            if (src && src.includes("style-clusters-preview.png")) {
+              return <StyleClustersGraph />;
+            }
+            return <img src={rewriteImage(src)} alt={alt} {...rest} />;
+          },
           a: ({ href, children, ...rest }) => (
             <a
               href={rewriteLink(href)}
