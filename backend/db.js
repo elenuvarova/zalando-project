@@ -11,10 +11,11 @@ export const sequelize = isPostgres
   ? new Sequelize(url, {
       dialect: "postgres",
       logging: false,
-      dialectOptions:
-        process.env.NODE_ENV === "production"
-          ? { ssl: { require: true, rejectUnauthorized: false } }
-          : {},
+      // Enable SSL only when the URL asks for it (e.g. Neon/Render ?sslmode=require).
+      // The Coolify-internal Postgres has no SSL, so forcing it would fail the connection.
+      dialectOptions: /sslmode=require/i.test(url)
+        ? { ssl: { require: true, rejectUnauthorized: false } }
+        : {},
     })
   : new Sequelize({
       dialect: "sqlite",
