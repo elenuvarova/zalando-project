@@ -3,7 +3,7 @@
 FROM node:20-alpine AS frontend-build
 WORKDIR /app/frontend
 COPY frontend/package*.json ./
-RUN npm install
+RUN npm ci
 COPY frontend/ ./
 # Copy case-study content + viz preview into frontend public/ so they ship as static assets
 # accessible at /case-study.md and /style-clusters-preview.png on the deployed site.
@@ -15,7 +15,7 @@ RUN npm run build
 FROM node:20-alpine AS backend-deps
 WORKDIR /app/backend
 COPY backend/package*.json ./
-RUN npm install --omit=dev
+RUN npm ci --omit=dev
 
 FROM node:20-alpine AS runtime
 ENV NODE_ENV=production

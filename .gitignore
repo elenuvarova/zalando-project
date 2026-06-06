@@ -17,3 +17,11 @@ __pycache__/
 
 # Local Claude Code state (per-user, not shared)
 .claude/
+
+# Build artifacts copied from writing/ and design/ by frontend/scripts/copy-assets.mjs
+frontend/public/case-study.md
+frontend/public/style-clusters.json
+frontend/public/style-clusters-preview.png
+
+# Playwright MCP scratch output
+.playwright-mcp/

@@ -1,16 +1,23 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import ForceGraph2D from "react-force-graph-2d";
 
-const CARD_HEIGHT = 560;
+const prefersReducedMotion =
+  typeof window !== "undefined" &&
+  window.matchMedia?.("(prefers-reduced-motion: reduce)").matches;
 
 export default function StyleClustersGraph() {
   const [data, setData] = useState(null);
   const [error, setError] = useState(null);
   const [hoverNode, setHoverNode] = useState(null);
   const [selectedNode, setSelectedNode] = useState(null);
-  const [width, setWidth] = useState(740);
+  const [width, setWidth] = useState(() =>
+    typeof window !== "undefined" ? Math.min(900, window.innerWidth - 48) : 740
+  );
   const containerRef = useRef(null);
   const fgRef = useRef(null);
+
+  // Height tracks width but stays within a comfortable band on phones and desktop.
+  const height = Math.round(Math.min(560, Math.max(380, width * 0.62)));
 
   useEffect(() => {
     fetch("/style-clusters.json")
@@ -18,11 +25,20 @@ export default function StyleClustersGraph() {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         return r.json();
       })
-      .then(setData)
+      .then((json) => {
+        if (
+          !json ||
+          !Array.isArray(json.nodes) ||
+          !Array.isArray(json.links) ||
+          !Array.isArray(json.communities)
+        ) {
+          throw new Error("unexpected graph data shape");
+        }
+        setData(json);
+      })
       .catch((err) => setError(err.message));
   }, []);
 
-  // Responsive width — fit container
   useEffect(() => {
     if (!containerRef.current) return;
     const ro = new ResizeObserver((entries) => {
@@ -33,7 +49,6 @@ export default function StyleClustersGraph() {
     return () => ro.disconnect();
   }, []);
 
-  // Neighbour map for highlighting
   const neighbours = useMemo(() => {
     if (!data) return new Map();
     const m = new Map();
@@ -46,6 +61,12 @@ export default function StyleClustersGraph() {
       m.get(t).add(s);
     }
     return m;
+  }, [data]);
+
+  const summary = useMemo(() => {
+    if (!data) return "";
+    const names = data.communities.map((c) => `#${c.id} ${c.label}`).join(", ");
+    return `Force-directed graph of ${data.nodes.length} SKUs and ${data.links.length} co-purchase edges, grouped into ${data.communities.length} style communities by Louvain clustering of H&M transaction data. Communities shown: ${names}.`;
   }, [data]);
 
   const focusId = selectedNode?.id ?? hoverNode?.id ?? null;
@@ -91,29 +112,30 @@ export default function StyleClustersGraph() {
           {data.nodes.length} SKUs · {data.links.length} edges · {data.communities.length} communities
         </span>
       </div>
-      <div className="graph-canvas-wrap" style={{ height: CARD_HEIGHT }}>
+      <div
+        className="graph-canvas-wrap"
+        style={{ height, background: "#11141a" }}
+        role="img"
+        aria-label={summary}
+      >
         <ForceGraph2D
           ref={fgRef}
           graphData={data}
           width={width}
-          height={CARD_HEIGHT}
+          height={height}
           backgroundColor="#11141a"
-          cooldownTicks={120}
+          cooldownTicks={prefersReducedMotion ? 0 : 120}
+          warmupTicks={prefersReducedMotion ? 200 : 0}
+          enableNodeDrag={!prefersReducedMotion}
           d3VelocityDecay={0.3}
           linkColor={(l) => (isLinkActive(l) ? "rgba(255,255,255,0.25)" : "rgba(255,255,255,0.05)")}
           linkWidth={(l) => Math.min(2.2, 0.3 + Math.log(1 + (l.weight ?? 1)) * 0.35)}
           nodeRelSize={5}
           nodeVal={(n) => Math.max(0.5, Math.log(1 + (n.size ?? 1)))}
-          nodeColor={(n) =>
-            isDim(n) ? "rgba(120,120,130,0.18)" : (n.colour || "#7cb7ff")
-          }
-          nodeLabel={(n) =>
-            `${n.label}\nCommunity ${n.community} · ${n.garment_group ?? ""}`
-          }
+          nodeColor={(n) => (isDim(n) ? "rgba(120,120,130,0.18)" : n.colour || "#7cb7ff")}
+          nodeLabel={(n) => `${n.label}\nCommunity ${n.community} · ${n.garment_group ?? ""}`}
           nodeCanvasObjectMode={(n) => (n.id === focusId ? "after" : undefined)}
           nodeCanvasObject={(node, ctx, globalScale) => {
-            // Only draw highlight ring on the focused node — community colours
-            // come from the library default via nodeColor above.
             if (node.id !== focusId) return;
             const baseRadius = Math.sqrt(Math.max(1, Math.log(1 + (node.size ?? 1)))) * 5;
             ctx.beginPath();
@@ -133,7 +155,11 @@ export default function StyleClustersGraph() {
       </div>
       <div className="graph-legend">
         {data.communities.map((c) => (
-          <span key={c.id} className="legend-pill" title={`Modal colour: ${c.modal_colour} (uninformative here — H&M catalog is Black-dominated)`}>
+          <span
+            key={c.id}
+            className="legend-pill"
+            title={`Modal colour: ${c.modal_colour} (uninformative here — H&M catalog is Black-dominated)`}
+          >
             <span className="legend-swatch" style={{ background: c.colour }} />
             <span className="legend-label">
               <strong>#{c.id}</strong> {c.label}
@@ -144,13 +170,6 @@ export default function StyleClustersGraph() {
       <p className="graph-help muted">
         Drag nodes · scroll to zoom · hover for label · click to focus a node and its neighbours · click background to reset.
       </p>
-      {hoverNode && (
-        <div className="graph-tooltip">
-          <strong>{hoverNode.label}</strong>
-          <br />
-          <span className="muted">Community {hoverNode.community} · {hoverNode.garment_group}</span>
-        </div>
-      )}
     </div>
   );
 }

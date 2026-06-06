@@ -13,8 +13,15 @@ export const sequelize = isPostgres
       logging: false,
       // Enable SSL only when the URL asks for it (e.g. Neon/Render ?sslmode=require).
       // The Coolify-internal Postgres has no SSL, so forcing it would fail the connection.
+      // When SSL is on we verify the chain if a CA cert is provided (DB_CA_CERT); otherwise
+      // we relax verification — managed providers (Render/Neon) front Postgres with a
+      // self-signed chain not in Node's default CA bundle. Deliberate, not an oversight.
       dialectOptions: /sslmode=require/i.test(url)
-        ? { ssl: { require: true, rejectUnauthorized: false } }
+        ? {
+            ssl: process.env.DB_CA_CERT
+              ? { require: true, rejectUnauthorized: true, ca: process.env.DB_CA_CERT }
+              : { require: true, rejectUnauthorized: false },
+          }
         : {},
     })
   : new Sequelize({
