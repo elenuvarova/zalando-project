@@ -11,7 +11,6 @@ function OutfitCard({ item }) {
     <div className="outfit-card">
       <Link to={`/shop/product/${item.id}`} className="tile-wrap">
         <GarmentTile hex={item.hex} slot={item.slot} appearance={item.appearance} label={`${item.colour} ${item.productType}`} />
-        <span className="gtile-note">illustrative</span>
       </Link>
       <div className="oc-body">
         <span className="oc-slot">{item.slotLabel}</span>

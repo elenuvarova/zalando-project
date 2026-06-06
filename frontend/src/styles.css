@@ -36,7 +36,7 @@
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { margin: 0; background: var(--bg); color: var(--ink); font-size: 15px; line-height: 1.5; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-size: 14px; line-height: 1.5; }
 a { color: inherit; text-decoration: none; }
 img { max-width: 100%; display: block; }
 button { font: inherit; cursor: pointer; }
@@ -45,33 +45,51 @@ button { font: inherit; cursor: pointer; }
 
 .wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 1.25rem; }
 
-/* ---------- Concept disclaimer ribbon ---------- */
+/* ---------- Concept disclaimer ribbon (understated, honest) ---------- */
 .concept-ribbon {
-  background: #111; color: #fff; font-size: 0.74rem; letter-spacing: 0.02em;
-  text-align: center; padding: 0.4rem 1rem;
+  display: flex; align-items: center; justify-content: center; gap: 1.25rem; flex-wrap: wrap;
+  background: #fafafa; color: var(--ink-3); border-bottom: 1px solid var(--line-2);
+  font-size: 0.72rem; letter-spacing: 0.01em; padding: 0.35rem 1rem;
 }
-.concept-ribbon strong { color: var(--orange); }
-.concept-ribbon a { text-decoration: underline; }
+.concept-ribbon strong { color: var(--ink); font-weight: 700; }
+.concept-ribbon a { text-decoration: underline; color: var(--ink-2); }
+.concept-ribbon a:hover { color: var(--ink); }
 
 /* ---------- Header ---------- */
 .hdr { position: sticky; top: 0; z-index: 40; background: #fff; border-bottom: 1px solid var(--line); }
 .hdr-main { display: flex; align-items: center; gap: 1.5rem; padding: 0.85rem 1.25rem; max-width: var(--maxw); margin: 0 auto; }
-.logo { font-weight: 800; font-size: 1.5rem; letter-spacing: -0.04em; color: #000; }
-.logo .dot { color: var(--orange); }
-.hdr-search { flex: 1; max-width: 520px; position: relative; }
+.logo { font-weight: 800; font-size: 1.6rem; letter-spacing: -0.05em; color: #000; }
+.hdr-search { flex: 1; max-width: 560px; position: relative; }
+.hdr-search-ico { position: absolute; left: 0.8rem; top: 50%; transform: translateY(-50%); color: var(--ink-3); font-size: 1.1rem; pointer-events: none; }
 .hdr-search input {
-  width: 100%; padding: 0.6rem 0.9rem; border: 1px solid var(--line); border-radius: 999px;
-  background: var(--bg-soft); font: inherit; font-size: 0.9rem;
+  width: 100%; padding: 0.62rem 0.9rem 0.62rem 2.3rem; border: 1px solid var(--ink); border-radius: 4px;
+  background: #fff; font: inherit; font-size: 0.9rem;
 }
-.hdr-search input:focus { background: #fff; border-color: var(--ink-3); outline: none; }
-.hdr-icons { display: flex; gap: 1.1rem; align-items: center; color: var(--ink); font-size: 0.85rem; }
-.hdr-icons a { display: inline-flex; align-items: center; gap: 0.35rem; }
+.hdr-search input::placeholder { color: var(--ink-3); }
+.hdr-search input:focus { border-color: var(--ink); outline: none; box-shadow: 0 0 0 1px var(--ink); }
+.hdr-icons { display: flex; gap: 1.5rem; align-items: flex-start; }
+.hdr-icons a { display: inline-flex; flex-direction: column; align-items: center; gap: 0.1rem; color: var(--ink); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.02em; }
+.hdr-icons .hi-ico { font-size: 1.15rem; }
 .hdr-icons a:hover { color: var(--orange-ink); }
+
+/* Category navigation (the Zalando hallmark) */
+.hdr-cats { border-top: 1px solid var(--line-2); }
+.hdr-cats .wrap { display: flex; align-items: center; gap: 1.5rem; padding-top: 0.7rem; padding-bottom: 0.7rem; overflow-x: auto; }
+.cat { font-size: 0.95rem; font-weight: 700; color: var(--ink); white-space: nowrap; padding-bottom: 4px; border-bottom: 2px solid transparent; }
+.cat:hover { border-bottom-color: var(--ink); }
+.cat.active { border-bottom-color: var(--ink); }
+.cat.sale { color: var(--sale); }
+.cat-div { width: 1px; height: 18px; background: var(--line); flex-shrink: 0; }
+.cat.link { font-weight: 600; font-size: 0.86rem; color: var(--ink-2); }
+.cat.link:hover { color: var(--ink); }
+.cat.link.on { color: var(--ink); border-bottom-color: var(--ink); }
+.cat.demo { color: var(--orange-ink); }
+
+/* Generic chip nav reused by the Shop filter */
 .hdr-nav { border-top: 1px solid var(--line-2); }
 .hdr-nav .wrap { display: flex; gap: 1.5rem; padding-top: 0.6rem; padding-bottom: 0.6rem; font-size: 0.86rem; font-weight: 600; overflow-x: auto; }
 .hdr-nav a { color: var(--ink-2); white-space: nowrap; padding-bottom: 2px; border-bottom: 2px solid transparent; }
 .hdr-nav a:hover, .hdr-nav a.active { color: var(--ink); border-bottom-color: var(--ink); }
-.hdr-nav a.demo { color: var(--orange-ink); }
 
 /* ---------- Buttons ---------- */
 .btn { display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;
@@ -106,10 +124,10 @@ button { font: inherit; cursor: pointer; }
 .price .was { color: var(--ink-3); text-decoration: line-through; font-weight: 500; margin-left: 0.4rem; font-size: 0.9em; }
 
 /* ---------- Product grid / cards ---------- */
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1.25rem 1rem; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(225px, 1fr)); gap: 1.75rem 1rem; }
 .pcard { position: relative; display: block; }
-.pcard .tile-wrap { position: relative; background: var(--bg-tile); border-radius: var(--radius); overflow: hidden; aspect-ratio: 3/4; }
-.pcard:hover .tile-wrap { box-shadow: var(--shadow-sm); }
+.pcard .tile-wrap { position: relative; background: var(--bg-tile); overflow: hidden; aspect-ratio: 3/4; }
+.pcard:hover .tile-wrap { box-shadow: inset 0 0 0 1px var(--line); }
 .pcard .wish { position: absolute; top: 8px; right: 8px; width: 34px; height: 34px; border-radius: 50%;
   background: rgba(255,255,255,0.9); border: none; display: grid; place-items: center; font-size: 0.95rem; }
 .pcard .wish:hover { background: #fff; }
@@ -182,9 +200,11 @@ button { font: inherit; cursor: pointer; }
 .look-creator .av { width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(135deg,#ffb37a,#ff6900); display:grid; place-items:center; color:#fff; font-weight:800; }
 
 /* ---------- Discover ---------- */
+.disco-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 1rem; flex-wrap: wrap; }
 .disco-clusters { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px,1fr)); gap: 1rem; }
-.cluster-card { border: 1px solid var(--line); border-radius: 12px; padding: 1.1rem; background: #fff; text-align: left; transition: box-shadow 0.15s, border-color 0.15s; }
+.cluster-card { border: 1px solid var(--line); border-radius: 12px; padding: 1.1rem; background: #fff; text-align: left; cursor: pointer; transition: box-shadow 0.15s, border-color 0.15s; }
 .cluster-card:hover { box-shadow: var(--shadow); border-color: var(--line); }
+.cluster-card.sel { border-color: var(--ink); box-shadow: var(--shadow); }
 .cluster-card .cc-dot { width: 14px; height: 14px; border-radius: 50%; display: inline-block; margin-right: 0.5rem; }
 .cluster-card h3 { margin: 0.5rem 0 0.25rem; font-size: 1rem; }
 .cluster-card .cc-meta { font-size: 0.8rem; color: var(--ink-3); }
@@ -219,6 +239,7 @@ button { font: inherit; cursor: pointer; }
 .ftr h4 { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--ink-3); margin: 0 0 0.6rem; }
 .ftr a { color: var(--ink-2); display: block; padding: 0.18rem 0; }
 .ftr a:hover { color: var(--ink); }
+.ftr-note { color: var(--ink-3); font-size: 0.84rem; line-height: 1.5; }
 .ftr-disclaim { border-top: 1px solid var(--line); margin-top: 1.5rem; padding-top: 1.25rem; font-size: 0.78rem; color: var(--ink-3); }
 .ftr-disclaim b { color: var(--ink-2); }
 

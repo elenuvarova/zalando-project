@@ -5,14 +5,13 @@ import Product from "./pages/Product.jsx";
 import Look from "./pages/Look.jsx";
 import Discover from "./pages/Discover.jsx";
 import Analytics from "./pages/Analytics.jsx";
-
-const CASE_STUDY = "https://github.com/elenuvarova/zalando-project/blob/main/writing/case-study.md";
+import { CASE_STUDY, REPO } from "./api.js";
 
 function ConceptRibbon() {
   return (
     <div className="concept-ribbon">
-      <strong>Concept redesign</strong> of Zalando's outfit-discovery surfaces · portfolio work by Elena Uvarova · not
-      affiliated with Zalando · <a href={CASE_STUDY} target="_blank" rel="noopener noreferrer">read the case study ↗</a>
+      <span><strong>Concept redesign</strong> · independent portfolio work by Elena Uvarova · not affiliated with Zalando</span>
+      <a href={CASE_STUDY} target="_blank" rel="noopener noreferrer">Read the case study&nbsp;↗</a>
     </div>
   );
 }
@@ -21,24 +20,29 @@ function Header() {
   return (
     <header className="hdr">
       <div className="hdr-main">
-        <Link to="/" className="logo" aria-label="Home">zalando<span className="dot">.</span></Link>
+        <Link to="/" className="logo" aria-label="Home">zalando</Link>
         <div className="hdr-search">
+          <span className="hdr-search-ico" aria-hidden="true">⌕</span>
           <input type="search" placeholder="Search for items and brands" aria-label="Search" />
         </div>
         <nav className="hdr-icons" aria-label="Account">
-          <a href="#account" onClick={(e) => e.preventDefault()}>◌ Account</a>
-          <a href="#wishlist" onClick={(e) => e.preventDefault()}>♡ Wishlist</a>
-          <a href="#bag" onClick={(e) => e.preventDefault()}>▢ Bag</a>
+          <a href="#account" onClick={(e) => e.preventDefault()}><span className="hi-ico">⛒</span>Hello</a>
+          <a href="#wishlist" onClick={(e) => e.preventDefault()}><span className="hi-ico">♡</span>Wishlist</a>
+          <a href="#bag" onClick={(e) => e.preventDefault()}><span className="hi-ico">🛍</span>Bag</a>
         </nav>
       </div>
-      <div className="hdr-nav">
+      <nav className="hdr-cats" aria-label="Main">
         <div className="wrap">
-          <NavLink to="/shop">Shop</NavLink>
-          <NavLink to="/discover">Discover by style</NavLink>
-          <NavLink to="/analytics">The data</NavLink>
-          <a className="demo" href={CASE_STUDY} target="_blank" rel="noopener noreferrer">Case study ↗</a>
+          <Link to="/shop" className="cat active">Women</Link>
+          <Link to="/shop" className="cat">Men</Link>
+          <Link to="/shop" className="cat">Kids</Link>
+          <Link to="/shop" className="cat sale">Sale</Link>
+          <span className="cat-div" aria-hidden="true" />
+          <NavLink to="/discover" className={({ isActive }) => `cat link${isActive ? " on" : ""}`}>Discover by style</NavLink>
+          <NavLink to="/analytics" className={({ isActive }) => `cat link${isActive ? " on" : ""}`}>The data</NavLink>
+          <a className="cat link demo" href={CASE_STUDY} target="_blank" rel="noopener noreferrer">Case study ↗</a>
         </div>
-      </div>
+      </nav>
     </header>
   );
 }
@@ -50,18 +54,18 @@ function Footer() {
         <div className="ftr-cols">
           <div>
             <h4>The redesign</h4>
-            <Link to="/shop">Shop (redesigned PDP)</Link>
-            <Link to="/discover">Discover by style cluster</Link>
-            <Link to="/analytics">The data behind it</Link>
+            <Link to="/shop">Shop the redesign</Link>
+            <Link to="/discover">Discover by style</Link>
+            <Link to="/analytics">The data &amp; graphs</Link>
           </div>
           <div>
             <h4>Project</h4>
-            <a href={CASE_STUDY} target="_blank" rel="noopener noreferrer">Full case study</a>
-            <a href="https://github.com/elenuvarova/zalando-project" target="_blank" rel="noopener noreferrer">Source on GitHub</a>
+            <a href={CASE_STUDY} target="_blank" rel="noopener noreferrer">Full case study (Notion)</a>
+            <a href={REPO} target="_blank" rel="noopener noreferrer">Source on GitHub</a>
           </div>
           <div>
             <h4>What's real</h4>
-            <span style={{ color: "var(--ink-3)", fontSize: "0.86rem" }}>Product names, colours &amp; outfit recommendations are derived from the H&amp;M Kaggle dataset (a proxy).</span>
+            <span className="ftr-note">Product names, colours &amp; outfit recommendations are derived from the H&amp;M Kaggle dataset (used as a proxy). Imagery, prices &amp; brands are illustrative.</span>
           </div>
         </div>
         <p className="ftr-disclaim">

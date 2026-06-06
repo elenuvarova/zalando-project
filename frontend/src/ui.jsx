@@ -51,7 +51,6 @@ export function ProductCard({ p }) {
         >
           ♡
         </button>
-        <span className="gtile-note">illustrative</span>
       </div>
       <div className="pmeta">
         <div className="pbrand">{p.brand}</div>

@@ -1,8 +1,6 @@
 import { Link } from "react-router-dom";
-import { useApi } from "../api.js";
+import { useApi, CASE_STUDY } from "../api.js";
 import { ProductCard } from "../ui.jsx";
-
-const CASE_STUDY = "https://github.com/elenuvarova/zalando-project/blob/main/writing/case-study.md";
 
 export default function Home() {
   // Feature a few products that have rich outfits (trousers/denim land well).

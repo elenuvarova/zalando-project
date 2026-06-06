@@ -1,11 +1,10 @@
 import { lazy, Suspense } from "react";
 import { Link } from "react-router-dom";
-import { useApi } from "../api.js";
+import { useApi, CASE_STUDY } from "../api.js";
 import { Spinner } from "../ui.jsx";
 
 const StyleClustersGraph = lazy(() => import("../StyleClustersGraph.jsx"));
 
-const CASE_STUDY = "https://github.com/elenuvarova/zalando-project/blob/main/writing/case-study.md";
 const METHODOLOGY = "https://github.com/elenuvarova/zalando-project/blob/main/data/methodology.md";
 
 const FINDINGS = [
