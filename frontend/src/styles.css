@@ -2,11 +2,11 @@
    Zalando redesign prototype — faithful marketplace UI with our fixes
    Concept / portfolio work. Not affiliated with Zalando.
    ============================================================ */
-@import "@fontsource-variable/inter";
+@import "@fontsource-variable/zalando-sans";
 
 :root {
-  --font: "Inter Variable", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
-  --font-display: "Fraunces Variable", Georgia, serif;
+  --font: "Zalando Sans Variable", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --font-display: "Zalando Sans Variable", -apple-system, system-ui, sans-serif;
   --font-mono: "SF Mono", "JetBrains Mono", Menlo, monospace;
 
   --ink: #1a1a1a;
@@ -36,7 +36,7 @@
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { margin: 0; background: var(--bg); color: var(--ink); font-size: 14px; line-height: 1.5; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-size: 16px; line-height: 1.5; }
 a { color: inherit; text-decoration: none; }
 img { max-width: 100%; display: block; }
 button { font: inherit; cursor: pointer; }
@@ -85,27 +85,38 @@ button { font: inherit; cursor: pointer; }
 .cat.link.on { color: var(--ink); border-bottom-color: var(--ink); }
 .cat.demo { color: var(--orange-ink); }
 
+/* Sub-category strip (the row below the Women/Men/Kids tabs) */
+.hdr-sub { border-top: 1px solid var(--line-2); }
+.hdr-sub .wrap { display: flex; align-items: center; gap: 1.4rem; padding-top: 0.55rem; padding-bottom: 0.55rem; overflow-x: auto; }
+.sub-cat { font-size: 0.85rem; font-weight: 500; color: var(--ink-2); white-space: nowrap; padding-bottom: 3px; border-bottom: 2px solid transparent; }
+.sub-cat:hover { color: var(--ink); border-bottom-color: var(--ink); }
+.sub-spacer { flex: 1 1 auto; min-width: 0.5rem; }
+.sub-cat.app { font-weight: 600; color: var(--ink); }
+.sub-cat.app.on { border-bottom-color: var(--ink); }
+.sub-cat.demo { color: var(--orange-ink); }
+
 /* Generic chip nav reused by the Shop filter */
 .hdr-nav { border-top: 1px solid var(--line-2); }
 .hdr-nav .wrap { display: flex; gap: 1.5rem; padding-top: 0.6rem; padding-bottom: 0.6rem; font-size: 0.86rem; font-weight: 600; overflow-x: auto; }
 .hdr-nav a { color: var(--ink-2); white-space: nowrap; padding-bottom: 2px; border-bottom: 2px solid transparent; }
 .hdr-nav a:hover, .hdr-nav a.active { color: var(--ink); border-bottom-color: var(--ink); }
 
-/* ---------- Buttons ---------- */
+/* ---------- Buttons (pill, matching Zalando) ---------- */
 .btn { display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;
-  border: 1px solid transparent; border-radius: var(--radius); padding: 0.85rem 1.25rem;
-  font-weight: 700; font-size: 0.92rem; transition: background 0.15s, border-color 0.15s, color 0.15s; }
+  border: 1px solid transparent; border-radius: 999px; padding: 0.85rem 1.6rem;
+  font-weight: 600; font-size: 0.95rem; transition: background 0.15s, border-color 0.15s, color 0.15s; }
 .btn-primary { background: #000; color: #fff; }
 .btn-primary:hover { background: #2a2a2a; }
+.btn-primary:disabled { background: #cfcfcf; cursor: not-allowed; }
 .btn-accent { background: var(--orange); color: #fff; }
 .btn-accent:hover { background: var(--orange-ink); }
 .btn-outline { background: #fff; color: var(--ink); border-color: var(--ink); }
 .btn-outline:hover { background: var(--bg-soft); }
 .btn-block { width: 100%; }
-.btn-sm { padding: 0.5rem 0.85rem; font-size: 0.82rem; }
-.icon-btn { background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
-  width: 48px; height: 48px; display: inline-flex; align-items: center; justify-content: center; font-size: 1.1rem; }
-.icon-btn:hover { border-color: var(--ink); }
+.btn-sm { padding: 0.5rem 1.1rem; font-size: 0.85rem; }
+.icon-btn { background: #fff; border: 1px solid var(--ink); border-radius: 50%;
+  width: 52px; height: 52px; display: inline-flex; align-items: center; justify-content: center; font-size: 1.15rem; flex-shrink: 0; }
+.icon-btn:hover { background: var(--bg-soft); }
 .icon-btn.on { color: var(--sale); border-color: var(--sale); }
 
 /* ---------- Badges ---------- */

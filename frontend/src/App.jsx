@@ -31,16 +31,26 @@ function Header() {
           <a href="#bag" onClick={(e) => e.preventDefault()}><span className="hi-ico">🛍</span>Bag</a>
         </nav>
       </div>
-      <nav className="hdr-cats" aria-label="Main">
+      <nav className="hdr-cats" aria-label="Categories">
         <div className="wrap">
           <Link to="/shop" className="cat active">Women</Link>
           <Link to="/shop" className="cat">Men</Link>
           <Link to="/shop" className="cat">Kids</Link>
           <Link to="/shop" className="cat sale">Sale</Link>
-          <span className="cat-div" aria-hidden="true" />
-          <NavLink to="/discover" className={({ isActive }) => `cat link${isActive ? " on" : ""}`}>Discover by style</NavLink>
-          <NavLink to="/analytics" className={({ isActive }) => `cat link${isActive ? " on" : ""}`}>The data</NavLink>
-          <a className="cat link demo" href={CASE_STUDY} target="_blank" rel="noopener noreferrer">Case study ↗</a>
+        </div>
+      </nav>
+      <nav className="hdr-sub" aria-label="Main">
+        <div className="wrap">
+          <Link to="/shop" className="sub-cat">New in</Link>
+          <Link to="/shop" className="sub-cat">Clothing</Link>
+          <Link to="/shop" className="sub-cat">Shoes</Link>
+          <Link to="/shop" className="sub-cat">Sportswear</Link>
+          <Link to="/shop" className="sub-cat">Accessories</Link>
+          <Link to="/shop" className="sub-cat">Brands</Link>
+          <span className="sub-spacer" aria-hidden="true" />
+          <NavLink to="/discover" className={({ isActive }) => `sub-cat app${isActive ? " on" : ""}`}>Discover by style</NavLink>
+          <NavLink to="/analytics" className={({ isActive }) => `sub-cat app${isActive ? " on" : ""}`}>The data</NavLink>
+          <a className="sub-cat app demo" href={CASE_STUDY} target="_blank" rel="noopener noreferrer">Case study ↗</a>
         </div>
       </nav>
     </header>
