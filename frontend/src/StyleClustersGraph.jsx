@@ -5,7 +5,7 @@ const prefersReducedMotion =
   typeof window !== "undefined" &&
   window.matchMedia?.("(prefers-reduced-motion: reduce)").matches;
 
-export default function StyleClustersGraph() {
+export default function StyleClustersGraph({ onNodeSelect } = {}) {
   const [data, setData] = useState(null);
   const [error, setError] = useState(null);
   const [hoverNode, setHoverNode] = useState(null);
@@ -146,6 +146,7 @@ export default function StyleClustersGraph() {
           }}
           onNodeHover={(n) => setHoverNode(n)}
           onNodeClick={(n) => {
+            if (onNodeSelect) { onNodeSelect(n.id); return; }
             setSelectedNode((prev) => (prev?.id === n.id ? null : n));
             fgRef.current?.centerAt(n.x, n.y, 600);
             fgRef.current?.zoom(2.6, 600);
@@ -168,7 +169,7 @@ export default function StyleClustersGraph() {
         ))}
       </div>
       <p className="graph-help muted">
-        Drag nodes · scroll to zoom · hover for label · click to focus a node and its neighbours · click background to reset.
+        Drag nodes · scroll to zoom · hover for label · {onNodeSelect ? "click a node to open the item" : "click to focus a node and its neighbours · click background to reset"}.
       </p>
     </div>
   );

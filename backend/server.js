@@ -4,6 +4,7 @@ import rateLimit from "express-rate-limit";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { sequelize, dbKind } from "./db.js";
+import * as catalog from "./catalog.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -52,6 +53,38 @@ app.get("/api/health/db", async (_req, res) => {
     console.error("DB health check failed:", err);
     res.status(503).json({ status: "error", db: dbKind });
   }
+});
+
+// --- Catalog / recommendation API (data from the H&M analysis) ---------------
+app.get("/api/meta", (_req, res) => res.json(catalog.meta));
+
+app.get("/api/products", (req, res) => {
+  res.json(catalog.listProducts(req.query));
+});
+
+app.get("/api/products/:id", (req, res) => {
+  const p = catalog.getProduct(req.params.id);
+  return p ? res.json(p) : res.status(404).json({ error: "Product not found" });
+});
+
+// "Complete this outfit" — cross-category co-purchase recommendation.
+app.get("/api/products/:id/outfit", (req, res) => {
+  const o = catalog.getOutfit(req.params.id);
+  return o ? res.json(o) : res.status(404).json({ error: "Product not found" });
+});
+
+app.get("/api/communities", (_req, res) => res.json(catalog.listCommunities()));
+
+app.get("/api/communities/:id", (req, res) => {
+  const c = catalog.getCommunity(req.params.id);
+  return c ? res.json(c) : res.status(404).json({ error: "Community not found" });
+});
+
+app.get("/api/looks", (_req, res) => res.json(catalog.listLooks()));
+
+app.get("/api/looks/:id", (req, res) => {
+  const l = catalog.getLook(req.params.id);
+  return l ? res.json(l) : res.status(404).json({ error: "Look not found" });
 });
 
 // Unknown API routes return JSON 404 rather than falling through to the SPA shell.
